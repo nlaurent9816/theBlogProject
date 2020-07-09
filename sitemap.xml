@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nlaurent9816.github.io/theBlogProject/</loc>
+    <lastmod>2020-07-09T18:46:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nlaurent9816.github.io/theBlogProject/posts/</loc>
+    <lastmod>2020-07-09T18:46:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nlaurent9816.github.io/theBlogProject/posts/premier-post/</loc>
+    <lastmod>2020-07-09T18:46:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nlaurent9816.github.io/theBlogProject/tags/</loc>
+    <lastmod>2020-07-09T18:46:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nlaurent9816.github.io/theBlogProject/tags/test/</loc>
+    <lastmod>2020-07-09T18:46:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nlaurent9816.github.io/theBlogProject/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nlaurent9816.github.io/theBlogProject/apropos/</loc>
+  </url>
+  
+</urlset>
