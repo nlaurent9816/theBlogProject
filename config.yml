@@ -1,0 +1,17 @@
+baseURL: "https://nlaurent9816.github.io/theBlogProject/"
+languageCode: "fr-fr"
+title: "The Blog Project"
+theme: "ananke"
+defaultContentLanguage: fr
+
+params:
+  background_color_class: "bg-navy"
+
+menu:
+  main:
+  - name: Premier article
+    url: /posts/premier-post
+    weight: -100
+  - name: À propos
+    url: /apropos
+    weight: -100
