@@ -1,0 +1,42 @@
+name: Site
+
+on:
+  push:
+    branches: 
+      - withHugo
+
+jobs:
+  # This workflow contains a single job called "build"
+  build_site:
+    runs-on: ubuntu-latest
+    container:
+      image: klakegg/hugo:debian
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+
+    - name: install-git
+      run: |
+        apt update
+        apt install git -y
+        git config --global user.email "runnergithub@mail.net"
+        git config --global user.name "Runner GitHub"
+
+
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
+    # Runs a set of commands using the runners shell
+    - name: build-site
+      run: |
+        git fetch
+        git submodule init
+        git submodule update
+        git worktree add -B gh-pages public origin/gh-pages
+        ls public
+        hugo
+        cd public 
+        git add --all
+        git commit -m "mise à jour du site"
+        git push
