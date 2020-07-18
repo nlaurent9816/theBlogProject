@@ -6,6 +6,10 @@ defaultContentLanguage: fr
 
 params:
   background_color_class: "bg-navy"
+  body_classes: "serif"
+  post_content_classes: "sans-serif post-content"
+  custom_css: 
+    - "css/custom.css"
 
 menu:
   main:

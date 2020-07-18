@@ -1,0 +1,11 @@
+.post-content {
+    width: 100%;
+}
+
+.bg-top {
+    background-attachment: fixed;
+}
+
+@media screen and (min-width: 60em) {
+    .post-content {text-align: justify;}
+}

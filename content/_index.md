@@ -1,7 +1,5 @@
 ---
 layout: page
-description: "Vous êtes à l'accueil du site !"
+description: "Site en cours de construction !"
 
 ---
-
-Bienvenue sur la page de garde !
