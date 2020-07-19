@@ -1,3 +1,7 @@
+.bg-top {
+    background-attachment: fixed;
+}
+
 .post-content {
     width: 100%;
 }
