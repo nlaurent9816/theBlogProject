@@ -2,10 +2,10 @@
     width: 100%;
 }
 
-.bg-top {
-    background-attachment: fixed;
+.post-content p {
+    text-align: justify;
 }
 
-@media screen and (min-width: 60em) {
-    .post-content {text-align: justify;}
+@media screen and (max-width: 30em) {
+    .post-content {font-size: 1rem;}
 }
