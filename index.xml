@@ -6,10 +6,19 @@
     <description>Recent content on The Blog Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 09 Jul 2020 18:46:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://nlaurent9816.github.io/theBlogProject/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Outer Wilds</title>
+      <link>https://nlaurent9816.github.io/theBlogProject/posts/outer_wilds/</link>
+      <pubDate>Sun, 19 Jul 2020 17:00:00 +0200</pubDate>
+      
+      <guid>https://nlaurent9816.github.io/theBlogProject/posts/outer_wilds/</guid>
+      <description>Une enquête archéologique dans un micro système stellaire. Enquêtez sur une civilisation disparue, visitez des planètes insolites et découvrez les mystères de l&amp;rsquo;Univers avant qu&amp;rsquo;il ne s&amp;rsquo;éffondre.</description>
+    </item>
     
     <item>
       <title>Premier Post</title>

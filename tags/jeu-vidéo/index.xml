@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Blog Project</title>
-    <link>https://nlaurent9816.github.io/theBlogProject/posts/</link>
-    <description>Recent content in Posts on The Blog Project</description>
+    <title>jeu vidéo on The Blog Project</title>
+    <link>https://nlaurent9816.github.io/theBlogProject/tags/jeu-vid%C3%A9o/</link>
+    <description>Recent content in jeu vidéo on The Blog Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 19 Jul 2020 17:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://nlaurent9816.github.io/theBlogProject/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nlaurent9816.github.io/theBlogProject/tags/jeu-vid%C3%A9o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://nlaurent9816.github.io/theBlogProject/posts/outer_wilds/</guid>
       <description>Une enquête archéologique dans un micro système stellaire. Enquêtez sur une civilisation disparue, visitez des planètes insolites et découvrez les mystères de l&amp;rsquo;Univers avant qu&amp;rsquo;il ne s&amp;rsquo;éffondre.</description>
-    </item>
-    
-    <item>
-      <title>Premier Post</title>
-      <link>https://nlaurent9816.github.io/theBlogProject/posts/premier-post/</link>
-      <pubDate>Thu, 09 Jul 2020 18:46:49 +0200</pubDate>
-      
-      <guid>https://nlaurent9816.github.io/theBlogProject/posts/premier-post/</guid>
-      <description>Les débuts de ce blog.</description>
     </item>
     
   </channel>
