@@ -1,0 +1,22 @@
+.accordion-head {
+    cursor: pointer;
+    text-align: left;
+  }
+    
+  .accordion-head:after {
+    content: '\002B';
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .active:after {
+    content: "\2212";
+  }
+  
+  .accordion-panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+  

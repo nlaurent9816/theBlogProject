@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The Blog Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 19 Jul 2020 17:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://nlaurent9816.github.io/theBlogProject/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Admonitions</title>
+      <link>https://nlaurent9816.github.io/theBlogProject/posts/admonitions/</link>
+      <pubDate>Sat, 15 Aug 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://nlaurent9816.github.io/theBlogProject/posts/admonitions/</guid>
+      <description>Une nouvelle fonctionnalité pour le blog !</description>
+    </item>
     
     <item>
       <title>Outer Wilds</title>
