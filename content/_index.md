@@ -1,5 +1,5 @@
 ---
 layout: page
-description: "Site en cours de construction !"
+description: "Enfin un article digne de ce nom !"
 
 ---
