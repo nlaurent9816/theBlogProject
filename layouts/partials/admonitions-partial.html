@@ -1,0 +1,27 @@
+{{/*
+    Partial Admonition
+    Permet d'afficher des informations encadrées avec une en-tête et le contenu.
+    Paramètres (à passer dans un objet dict) :
+      * title : Le texte à mettre dans l'en-tête (défaut "Info")
+      * content : le contenu de l'encadré (format HTML, veuillez utiliser "markdownify" avant si nécessaire)
+                S'il n'est pas présente, alors seul l'en-tête sera affiché.
+      * backgroundColor : une classe de couleur (de Tachyons). Défaut "dark-blue"
+      * accordion : Le contenu sera caché, et il faudra cliquer sur l'en-tête pour l'ouvrir/le fermer.
+                Ignoré s'il n'y a pas de contenu.
+    
+    Inspiré du module "Admonitions" des mkdocs.
+*/}}
+
+{{$backgroundColor := default "dark-blue" .backgroundColor}}
+<div class="shadow-5 mv4">
+    <div class="pa3 bn near-white bg-{{$backgroundColor}} {{if (.accordion |and .content)}}accordion-head dim{{end}}" {{if (.accordion |and .content)}} onclick="accordion_toggle(this)"{{end}}>
+        <b>{{default "Info" .title}}</b>
+    </div>
+    {{if .content}}
+    <div class="near-black bn bg-black-10 {{if .accordion}}accordion-panel{{else}}{{end}}" style="overflow: hidden">
+        <div class="ma3" style="font-size: 0.9em">
+            {{.content}}
+        </div>
+    </div>
+    {{end}}
+</div>

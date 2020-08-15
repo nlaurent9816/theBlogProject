@@ -1,4 +1,2 @@
 {{$title:= .Get "title" | default (.Get 0) | default "Info"}}
-{{partial "admonitions/admonition-start.html" (dict "title" $title)}}
-{{.Inner|markdownify}}
-{{partial "admonitions/admonition-end.html"}}
+{{partial "admonitions-partial.html" (dict "title" $title "content" (.Inner|markdownify))}}

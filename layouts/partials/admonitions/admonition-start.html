@@ -1,7 +1,0 @@
-{{$backgroundColor := default "dark-blue" .backgroundColor}}
-<div class="shadow-5 mv4">
-    <div class="pa3 bn near-white bg-{{$backgroundColor}} {{if .accordion}}accordion-head dim{{end}}" {{if .accordion}} onclick="accordion_toggle(this)"{{end}}>
-        <b>{{default "Info" .title}}</b>
-    </div>
-    <div class="near-black bn bg-black-10 {{if .accordion}}accordion-panel{{else}}{{end}}" style="overflow: hidden">
-        <div class="ma3" style="font-size: 0.9em">

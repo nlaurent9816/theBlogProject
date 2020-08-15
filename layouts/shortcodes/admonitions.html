@@ -1,0 +1,4 @@
+{{$title:= .Get "title" | default (.Get 0)}}
+{{$backgroundColor:= .Get "backgroundColor" | default (.Get 1)}}
+{{$accordion:= .Get "accordion" | default (.Get 2)}}
+{{partial "admonitions-partial.html" (dict "title" $title "content" (.Inner|markdownify) "backgroundColor" $backgroundColor "accordion" $accordion)}}

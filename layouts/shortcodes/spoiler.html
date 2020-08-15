@@ -1,4 +1,2 @@
-{{$title:= .Get "title" | default (.Get 0) | default "Spoiler"}}
-{{partial "admonitions/admonition-start.html" (dict "title" $title "backgroundColor" "near-black" "accordion" true)}}
-{{.Inner|markdownify}}
-{{partial "admonitions/admonition-end.html"}}
+{{$title:= .Get "title" | default (.Get 0) | default "Révélations"}}
+{{partial "admonitions-partial.html" (dict "title" $title "content" (.Inner|markdownify) "backgroundColor" "near-black" "accordion" true)}}
