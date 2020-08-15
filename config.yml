@@ -10,6 +10,7 @@ params:
   post_content_classes: "sans-serif post-content"
   custom_css: 
     - "css/custom.css"
+    - "css/accordion.css"
 
 menu:
   main:

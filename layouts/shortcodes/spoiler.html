@@ -1,6 +1,4 @@
-<div class="shadow-5 br3">
-  <div class="pa3 br3 br--top ba near-white b--near-black bg-near-black"><b>Spoiler</b></div>
-  <div class="pa3 br3 br--bottom ba near-black b--near-black bg-light-silver">
-      {{.Inner|markdownify}}
-  </div>
-</div>
+{{$title:= .Get "title" | default (.Get 0) | default "Spoiler"}}
+{{partial "admonitions/admonition-start.html" (dict "title" $title "backgroundColor" "near-black" "accordion" true)}}
+{{.Inner|markdownify}}
+{{partial "admonitions/admonition-end.html"}}
