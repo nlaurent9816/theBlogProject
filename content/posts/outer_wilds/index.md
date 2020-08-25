@@ -17,7 +17,7 @@ toc: false
 >*En ouvrant les yeux, il se remémorait ses expériences passées. Son appréhension, certes présente, ne saurait réfréner sa soif de nouveautés.*
 >*Il allait marcher dans les pas de quelques grands avant lui, des semblables qu'il admirait. Grâce à ses connaissances, il apporterait fièrement sa pierre à l'édifice.*
 >
->*Ce n'était peut-être pas le plus fort ou le plus courageux, mais son brin de jugeote l'avait jusque là permis de tirer son épingle du jeu. L'entraînement et les préparatifs furent longs, mais tout cela lui permettrait à terme de repousser les limites de la découverte. C'était tout du moins ce qu'il espérait.*
+>*Ce n'était peut-être pas le plus fort ou le plus courageux, mais son brin de jugeote l'avait jusque-là permis de tirer son épingle du jeu. L'entraînement et les préparatifs furent longs, mais tout cela lui permettrait à terme de repousser les limites de la découverte. C'était tout du moins ce qu'il espérait.*
 >
 >*Oui, aujourd'hui commençait une nouvelle aventure.*
 >
@@ -42,10 +42,10 @@ rencontrer ses habitants et proposer quelques tutoriels qui vous aideront à vou
 **Le musée de l'observatoire** est aussi riche en informations, car présentant des connaissances et des objets provenant des précédentes missions spatiales.
 
 
-C'est d'ailleurs l'occasion d'évoquer la votre, de mission : enquêter sur les **Nomais**, un peuple disparu depuis fort longtemps, et dont on trouve les ruines
-sur la plupart des planètes du système. Tout ce que l'on sait d'eux, c'est qu'ils ne sont pas originaire d'ici, et qu'ils ont mystérieusement disparu après s'être
-installés sur les astres avoisinants. D'où viennent-t-ils ? Que venaient-ils chercher dans ce système stellaire ? Pourquoi ont-ils disparu ?
-Tant de questions auxquelles répondre. Et pour vous aider dans cette tâche, il vous sera remis un **traducteur portatif**, dernière invention Âtrienne
+C'est d'ailleurs l'occasion d'évoquer la vôtre, de mission : enquêter sur les **Nomais**, un peuple disparu depuis fort longtemps, et dont on trouve les ruines
+sur la plupart des planètes du système. Tout ce que l'on sait sur eux, c'est qu'ils ne sont pas originaires d'ici, et qu'ils ont mystérieusement disparu après s'être
+installés sur les astres avoisinants. D'où viennent-ils ? Que venaient-ils chercher dans ce système stellaire ? Pourquoi ont-ils disparu ?
+Tant de questions auxquelles vous aurez l'opportunité de répondre. Et pour vous aider dans cette tâche, il vous sera remis un **traducteur portatif**, dernière invention Âtrienne
 qui vous permettra de décoder les écrits Nomais reposant çà et là.
 
 ![Système solaire](sep_intrus.png "L'intrus, une comète couverte de glace.")
@@ -57,10 +57,10 @@ Après l'explication de la mission, le traducteur et les codes de lancement réc
 et effectuer votre premier décollage. Qu'allez-vous explorer en premier ? Commencerez-vous par un saut de puce en atteignant **la Rocaille**,
 le satellite d'Âtrebois ? Irez-vous explorer les insolites **Sablières** dont le sable de l'une se déverse dans l'autre, quitte à vous approcher du Soleil ?
 Êtes-vous plutôt curieux de savoir ce que cache l'atmosphère verte et opaque de **Léviathe** ? La surface de **Cravité**, la planète creuse ?
-Ou bien vous sentez-vous assez courageux pour explorer l'espace distordu de **Sombronces** ? (Vous noterez d'ailleurs la qualité de l'adaptation française.)
+Ou bien vous sentez-vous assez courageux pour explorer l'espace distordu de **Sombronces** ? (vous noterez d'ailleurs la qualité de l'adaptation française.)
 
 Chaque astre a **sa propre identité**, des mécaniques uniques qui le caractérise. Il vous faudra les comprendre pour percer certains mystères et progresser.
-L'exemple le plus parlant est celui de la **Lune Quantique**, satellite "farceur" qui orbite autour de toutes les planètes du système,
+L'exemple le plus parlant est celui de la **Lune Quantique**, ce satellite "farceur" qui orbite autour de toutes les planètes du système,
 change de place dès qu'on lui tourne le dos, et disparaît lorsque l'on tente de se poser dessus. Il doit pourtant bien exister un moyen de se poser dessus, non ?
 Certains écrits Nomais parlent de pèlerinage sur la Lune...
 
@@ -102,7 +102,7 @@ ainsi qu'un pilote automatique. Votre vaisseau se redresse aussi automatiquement
 vous permettant de vous poser sur ses tains d'atterrissage plus facilement.
 
 Niveau exploration, j'ai été impressionné par la **diversité des planètes**. Elles n'ont beau être "que" six,
-elles sont grandement différentes les unes par rapport aux autres. De plus, leur petite taille permet d'éviter le syndrôme des "grands espaces vides",
+elles sont grandement différentes les unes par rapport aux autres. De plus, leur petite taille permet d'éviter le syndrome des "grands espaces vides",
 où il faut errer pendant des dizaines de minutes pour trouver un point d'intérêt. Cela serait d'ailleurs rentré en conflit avec la **limite de temps**
 de la boucle temporelle. Au contraire, Outer Wilds a bien pensé son *level design*, et aucune expédition n'a besoin de l'intégralité d'un cycle.
 
