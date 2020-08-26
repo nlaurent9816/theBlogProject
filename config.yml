@@ -8,6 +8,7 @@ params:
   background_color_class: "bg-navy"
   body_classes: "serif"
   post_content_classes: "sans-serif post-content"
+  recent_posts_number: 8
   custom_css: 
     - "css/custom.css"
     - "css/accordion.css"
