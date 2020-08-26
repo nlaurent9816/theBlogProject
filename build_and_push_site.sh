@@ -23,7 +23,7 @@ publish_site () {
     then
       echo "Des choses à commiter !"
       git add --all
-      git commit -m "Mise à jour du site" -m "Commit : $sha    Date : $(date -Iseconds)"
+      git commit -m "Mise à jour du site" -m "Commit : $sha    Date : $(TZ='Europe/Paris' date -Iseconds)"
       git push
     else
       echo "Rien à commiter !"
