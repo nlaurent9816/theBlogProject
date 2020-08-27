@@ -155,7 +155,7 @@ Danganronpa fut un chouette titre à parcourir. Il n'est peut-être pas l'Ultime
 * Développé par **Spike Chunsoft**
 * Sorti initialement au Japon sur PSP en **novembre 2010**, puis à partir de 2014 à l'international. Disponible aujourd'hui aussi sur PS Vita, PS4, PC et smartphones.
 * Joué en **juillet 2020** sur Windows et Linux (Steam).
-* Mon appréciation : **C'était bien sympa, j'attends maintenant la suite ! (Comment ça "Ça faut longtemps qu'elle est sortie" ?)**
+* Mon appréciation : **C'était bien sympa, j'attends maintenant la suite ! (Comment ça "Ça fait longtemps qu'elle est sortie" ?)**
 {{< /info >}}
 
 ![](sep_persos_2.png)
