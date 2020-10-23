@@ -5,10 +5,6 @@
     <link>https://nlaurent9816.github.io/theBlogProject/categories/</link>
     <description>Recent content in Categories on The Blog Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://nlaurent9816.github.io/theBlogProject/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-fr</language><atom:link href="https://nlaurent9816.github.io/theBlogProject/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
