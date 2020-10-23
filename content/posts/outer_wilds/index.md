@@ -123,13 +123,13 @@ j'affectionne beaucoup, et il réussit beaucoup de choses en les combinant. Déc
 ont été de très grands moteurs pour moi. Et à la fin, quand toutes les informations se recoupent pour pointer une destination finale, qui ne sera pas atteignable
 sans prendre de gros risques, tout cela forme une expérience marquante que je vous encourage à vivre.
 
->**Outer Wilds**
->
->Jeu d'aventure et d'exploration spatiale.  
->Développé par **Mobius Digital**  
->Sorti en **mai 2019** (PC et Xbox One) puis en **octobre 2019** pour la PS4  
->Joué en **juin 2020** sur **PC** (Steam)  
->Mon appréciation : **Paré pour un nouveau décollage !**
+{{< info "Outer Wilds" >}}
+Jeu d'aventure et d'exploration spatiale.  
+Développé par **Mobius Digital**  
+Sorti en **mai 2019** (PC et Xbox One) puis en **octobre 2019** pour la PS4  
+Joué en **juin 2020** sur **PC** (Steam)  
+Mon appréciation : **Paré pour un nouveau décollage !**
+{{< /info >}}
 
 ![Supernova](sep_supernova.png "La fin des temps, mais le début d'une aventure.")
 
