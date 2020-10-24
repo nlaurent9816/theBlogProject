@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nlaurent9816.github.io/theBlogProject/</loc>
-    <lastmod>2020-10-24T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nlaurent9816.github.io/theBlogProject/tags/jeu-vid%C3%A9o/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
   </url>
@@ -24,6 +19,11 @@
   
   <url>
     <loc>https://nlaurent9816.github.io/theBlogProject/tags/</loc>
+    <lastmod>2020-10-24T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nlaurent9816.github.io/theBlogProject/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
   </url>
   
