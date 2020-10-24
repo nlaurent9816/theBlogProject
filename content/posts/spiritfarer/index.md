@@ -1,13 +1,13 @@
 ---
 title:  "Spiritfarer"
-date: 2020-10-23T20:00:00+02:00
+date: 2020-10-24T18:00:00+02:00
 tags: [jeu vidéo]
 featured_image: "posts/spiritfarer/Spiritfarer.png"
 images: 
     - posts/spiritfarer/Spiritfarer.png
 description: "Dernier voyage"
 summary: "Aidez Stella dans sa dure tâche de passeuse d'âmes : accueillez des esprits à bord d'un bateau façonné par vos soins. Répondez à leurs requêtes pour les rendre heureux, avant que vienne le moment de les amener vers un monde meilleur."
-draft: true
+draft: false
 toc: false
 ---
 
@@ -60,7 +60,7 @@ Pour l'aider dans sa tâche, Charon remet au duo la **Lanternelle**, un puissant
 C'est accosté à une petite île proche du Seuil Éternel qu'elle trouvera un bateau abandonné, ainsi qu'un premier esprit à accueillir à son bord. Il s'agit de **Gwen**, une ancienne connaissance de l'héroïne.
 Il faut préciser que, dans le monde des morts, les esprits prennent soit l'apparence de silhouettes encapuchonnées, soit d'animaux dès qu'ils montent sur le vaisseau de la passeuse d'âmes. Pour Gwen, elle est présentée sous la forme d'un cerf, mais on pourra rencontrer lors du voyage un buffle, une grenouille, un hérisson ou encore un champignon à quatre bras.
 
-**Chaque personnage a sa propre histoire à raconter**, à condition que vous leur portiez une oreille attentive. Gwen par exemple nous parlera de sa vie dans une famille aisée, des relations compliquées avec ses parents dues à son tempérament espiègle, et se remémorera sa jeunesse avec Stella qui la considérait comme sa sœur. Elle évoquera aussi son addiction à la cigarette dès son plus jeune âge, ce qui aura grandement participé à réduire son espérance de vie.
+**Chaque personnage que vous accueillerez à bord a sa propre histoire à raconter**, à condition d'y porter une oreille attentive. Gwen par exemple nous parlera de sa vie dans une famille aisée, des relations compliquées avec ses parents dues à son tempérament espiègle, et se remémorera sa jeunesse avec Stella qui la considérait comme sa sœur. Elle évoquera aussi son addiction à la cigarette dès son plus jeune âge, ce qui aura grandement participé à réduire son espérance de vie.
 Je vous laisse la découverte des récits des autres personnages, car c'est ce qui fait le principal intérêt du jeu. Sachez que, comme pour Gwen, **ils partageront avec vous aussi bien les bons souvenirs que les mauvais**, leurs fiertés autant que leurs regrets.
 
 ![](meditation.png "Un moment de méditation pour se connecter avec la nature.")
@@ -90,7 +90,7 @@ C'est aussi le cas des quêtes des passagers, il n'y a pas assez de diversité p
 
 ![](paneaux.png "Une île composée uniquement de panneaux publicitaires lumineux. Pas le meilleur endroit pour dormir à mon avis.")
 
-Un petit mot sur la technique : **j'ai apprécié les graphismes** tout en dessins animés avec talent, j'aurais bien aimé aussi voir des cinématiques avec cette direction artistique pour marquer certains points forts du jeu. J'ai aussi rencontré quelques **bugs** lors de ma partie, heureusement rien d'embêtant, ainsi que quelques **crashs** sur des sessions de jeu un peu longues. Mais sachant que j'ai joué à Spiritfarer que quelques semaines après sa sortie, j'espère que les développeurs corrigeront tout ça dans de futures mises à jour. J'en finis avec les reproches en pointant du doigt la **traduction française parfois trop littérale**, traduisant par exemple *"Here we are!"* par *"Nous sommes ici !"*.
+Un petit mot sur la technique : **j'ai apprécié les graphismes** tout en dessins animés avec talent, mais j'aurais bien aimé aussi voir des cinématiques avec cette direction artistique pour marquer certains points forts du jeu. J'ai aussi rencontré quelques **bugs** lors de ma partie, heureusement rien d'embêtant, ainsi que quelques **crashs** sur des sessions de jeu un peu longues. Mais sachant que j'ai joué à Spiritfarer que quelques semaines après sa sortie, j'espère que les développeurs corrigeront tout ça dans de futures mises à jour. J'en finis avec les reproches en pointant du doigt la **traduction française parfois trop littérale**, traduisant par exemple *"Here we are!"* par *"Nous sommes ici !"*.
 
 Enfin, il faut savoir que le jeu dispose d'un **mode coopératif** où le deuxième joueur incarne Daffodil, mais ne l'ayant pas essayé je ne peux pas vous en parler.
 
@@ -98,10 +98,10 @@ Enfin, il faut savoir que le jeu dispose d'un **mode coopératif** où le deuxi�
 
 # Le travail d'une vie
 
-Tout au long du jeu nous croisons des esprits nous narrant l'histoire de leur vie. Mais qu'en est-il l'héroïne du jeu ? **Quel était la vie de Stella avant de devenir passeuse d'âmes ?**
+Tout au long du jeu nous croisons des esprits nous narrant l'histoire de leur vie. Mais qu'en est-il pour l'héroïne du jeu ? **Quelle était la vie de Stella avant de devenir passeuse d'âmes ?**
 
 {{< admonitions "Attention, la partie qui va suivre contient des révélations sur l'histoire de Stella." "dark-red" >}}
-Si vous préférez les découvrir par vous-même, vous pouvez directement sauter à la [Conclusion](#conclusion).
+Si vous préférez la découvrir par vous-même, vous pouvez directement sauter à la [Conclusion](#conclusion).
 {{</admonitions>}}
 
 Cette histoire est disséminée tout au long du jeu de manière plus ou moins évidente. Elle est déjà narrée à travers les esprits que l'on accueille à bord, car beaucoup d'entre eux connaissaient leur hôte de leur vivant. Je parlais de Gwen plus haut, mais ce n'est pas la seule. Aussi, il y a dans le jeu des séquences oniriques où des images de la vie de Stella se manifestent, permettant d'avoir une idée sur qui elle était.
@@ -127,22 +127,23 @@ Traduction (faite avec [Deepl](https://www.deepl.com/home "Bien meilleur que Goo
 >
 >*Dans le jeu, vous jouez avec les souvenirs fugaces de Stella se remémorant ses visites familiales en Alsace pendant son enfance, ses nouvelles amitiés formées lors de sa visite à Shirakawa-gō au début de sa vie adulte, ses patients alors qu'elle travaillait comme auxiliaire de santé à Oxbury et ses cauchemars remplis d'anxiété lorsqu'elle a appris qu'elle était atteinte d'un cancer qui progressait rapidement.*
 >
->*Chaque endroit que vous visitez, chaque esprit que vous rencontrez et chaque événement que vous rencontrez sont directement liés à la vie de Stella, ou plutôt à la façon dont elle s'en souvient... alors que sa vie s'écoule.*
+>*Chaque endroit que vous visitez, chaque esprit que vous rencontrez et chaque événement auquel vous assisterez sont directement liés à la vie de Stella, ou plutôt à la façon dont elle s'en souvient... alors que sa vie s'écoule.*
 >
 >*Vous êtes la main qui la guide dans son dernier voyage à la rencontre de Hadès.*
 
 {{< /admonitions >}}
 
-*<<Chaque endroit que vous visitez, chaque esprit que vous rencontrez et chaque événement que vous rencontrez sont directement liés à la vie de Stella.>>* Si on a déjà expliqué que les esprits sont pour la plupart des connaissances de l'héroïne, il est intéressant de noter que **les décors des îles rappellent les lieux dans lesquels elle a vécu**. On croise des maisons à colombages et des forêts de conifères qui évoquent l'Alsace, des architectures japonaises traditionnelles inspirées de Shirakawa-gō, ou encore Oxbury qui est une île urbaine inspirée de Montréal.
+*<<Chaque endroit que vous visitez, chaque esprit que vous rencontrez et chaque événement auquel vous assisterez sont directement liés à la vie de Stella.>>* Si j'ai déjà expliqué que les esprits sont pour la plupart des connaissances de l'héroïne, il est intéressant de noter que **les décors des îles rappellent les lieux dans lesquels elle a vécu**. On croise des maisons à colombages et des forêts de conifères qui évoquent l'Alsace, des architectures japonaises traditionnelles inspirées de Shirakawa-gō, ou encore Oxbury qui est une île urbaine inspirée de Montréal.
 
-Mais la partie la plus intéressante est au début de l'extrait : *<<Stella [...] était infirmière en soins palliatifs, [...] elle accompagnait ceux qui n'avaient peut-être plus beaucoup de temps à vivre, et soulageait leur douleur en étant là pour eux.>>*. Or, tout le long du jeu, elle est aux petits soins des esprits qu'elle accueille sur son navire avant de les emmener vers l'au-delà. Dans la mort comme de son vivant, Stella a toujours accompagné des personnes jusqu'à leur trépas tout en se mettant à leur service. **Le travail de la passeuse d'âme est en réalité un écho à son ancien métier d'infirmière.**
-Et le jeu devient à ce moment-là une représentation du réel. On est alors tenté de rattacher certains éléments à notre monde. Par exemple, la forte sensation de répétition dans les mécaniques de jeu raconterait la pénibilité du travail des professionnels de santé. Notez cependant que si cela explique ce défaut énoncé plus haut, je le considère tout de même toujours comme nuisant à l'attention envers l'histoire des esprits. Mais dès que les clés de compréhension sont là, on voit beaucoup mieux la cohésion entre narration et gameplay.
+Mais la partie la plus intéressante est au début de l'extrait : *<<Stella [...] était infirmière en soins palliatifs, [...] elle accompagnait ceux qui n'avaient peut-être plus beaucoup de temps à vivre, et soulageait leur douleur en étant là pour eux.>>*. Or, tout le long du jeu, elle est aux petits soins des esprits qu'elle accueille sur son navire avant de les emmener vers l'au-delà. Dans la mort comme de son vivant, Stella a toujours accompagné des personnes jusqu'à leur trépas tout en se mettant à leur service. **Le travail de la passeuse d'âme est en réalité un écho à son ancien métier d'infirmière.** Et en tant que joueur, nous accompagnons Stella dans son dernier voyage comme elle accompagnait ses patients de son vivant.
+
+Spiritfarer prend alors un nouveau sens. On est alors tenté de rattacher certains éléments du jeu à cette parabole. Par exemple, la forte sensation de répétition dans les mécaniques de jeu raconterait la pénibilité du travail des professionnels de santé. Notez cependant que si cela explique ce défaut énoncé plus haut, je le considère tout de même toujours comme nuisant à l'attention envers les histoires des esprits. Mais dès que les clés de compréhension sont là, on voit beaucoup mieux la cohésion entre narration et gameplay.
 
 ![](souvenirs.png "Stella se souvenant de sa jeunesse. Rêvait-elle de faire le Tour de France à l'époque ?")
 
 # Conclusion
 
-Pour ceux ne redoutant ni la mélancolie ni la répétitivité, Spiritfarer saura vous porter sur ses flots. Il se dégage du titre une ambiance chaleureuse contrastant avec le thème de la mort, d'ordinaire glacial. J'ai surtout apprécié les histoires de nos passagers, à condition d'être attentif à ce qu'ils disent. On fait beaucoup de choses dans le jeu, peut-être trop, il faut donc apprendre à faire une pause de temps en temps et se laisser couler. Après tout, *[nous avons toute la mort pour nous reposer](https://www.youtube.com/watch?v=uoMMONfHBK8 "Je me sens d'humeur musicale aujourd'hui !")*, disait le chanteur philosophe.
+Pour ceux ne redoutant ni la mélancolie ni la répétitivité, Spiritfarer saura vous porter sur ses flots. Il se dégage du titre une ambiance chaleureuse contrastant avec le thème de la mort, d'ordinaire glacial. J'ai surtout apprécié les histoires de nos passagers, à condition d'être attentif à ce qu'ils disent. On fait beaucoup de choses dans le jeu, peut-être trop, il faut donc apprendre à arrêter de courir dans tous les sens et à faire une pause de temps en temps. Après tout, *[nous avons toute la mort pour nous reposer](https://www.youtube.com/watch?v=uoMMONfHBK8 "Je me sens d'humeur musicale aujourd'hui !")*, disait le chanteur philosophe.
 
 {{< info "Spiritfarer" >}}
 * Jeu de gestion cozy sur le thème de la mort.
@@ -156,6 +157,6 @@ Pour ceux ne redoutant ni la mélancolie ni la répétitivité, Spiritfarer saur
 
 Même si ce n'est pas grand-chose, j'ai cette fois-ci plus de liens à vous partager que la dernière fois.
 
-Dans un premier temps le [site officiel](https://thunderlotusgames.com/) et le [serveur Discord](https://discord.com/invite/4RYq42b) de Thunder Lotus Games, pour échanger en anglais avec les développeurs. Toujours en anglais, et si vous voulez mieux comprendre les histoires des différents personnages, il existe un [wiki](https://spiritfarer.fandom.com/wiki/Spiritfarer_Wiki) tenu par des fans que je vous conseille de regarder après avoir terminé le jeu.
+Dans un premier temps, le [site officiel](https://thunderlotusgames.com/) et le [serveur Discord](https://discord.com/invite/4RYq42b) de Thunder Lotus Games, pour échanger en anglais avec les développeurs. Toujours en anglais, et si vous voulez mieux comprendre les histoires des différents personnages, il existe un [wiki](https://spiritfarer.fandom.com/wiki/Spiritfarer_Wiki) tenu par des fans que je vous conseille de regarder après avoir terminé le jeu.
 
 ![](bateau_jour.png "Tu es le plus beau des bateaux !")
