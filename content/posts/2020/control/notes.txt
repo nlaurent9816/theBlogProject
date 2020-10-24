@@ -1,0 +1,32 @@
+* DA marquée :
+    * L'architecture de l'ancienne maison en cubes de béton et aux formes changeantes. Des équipements rétro malgré l'époque contemporaine, lié au fait que l'ancienne maison n'aime pas les nouvelles technologies.
+    * Le Hiss n'a pas de visage, il est décrit comme une onde, sa présence ne se manifeste que par la couleur rouge vif. Il s'immisce dans les pensées des humains pour prendre le contrôle de leur corps. Les plus inoffensifs ne font que flotter en récitant des incantations, mais la plupart seront hostiles et disposent d'armes ou de pouvoirs télékinétiques.
+    * Comme les objets altérés se forment à partir d'éléments du quotidien, il est amusant de voir comment sont mis en valeur un téléphone, un frigidaire ou alors un simple canard en plastique.
+
+* Histoire :
+    * Fantastique, paranormal, fait penser à la fondation SCP (surtout dans les rapports dans lesquels certaines parties sont caviardées)
+    * Pour une fois, je me suis plu à lire tout ces papiers qu'on récupère au fil de l'aventure. Ils permettent de décrire les activités passées du Bureau ainsi que de mieux comprendre l'univers du jeu : évènements d'altération du monde, objets altérés/de pouvoir, plan astral, etc...
+    * On incarne Jesse Faden, entrant pour la première fois dans le Bureau Fédéral de Contrôle, à la recherche de son frère disparu il y a des années. Le BFC est une entité d'État dont le rôle est d'enquêter sur des phénomènes paranormaux et de les empêcher, tout cela sans que le grand publique n'en sache rien. Pourtant, il n'y a personne pour accueillir ou renvoyer Jesse aujourd'hui, si ce n'est que le concièrge croisé alors qu'elle explorait les environs. Sur ses indications, elle arrive rapidement au bureau du directeur, qu'elle retrouve gisant à côté de son bureau, suite à ce qui ressemble être un suicide. Elle ramasse l'étrange pistolet se trouvant à côté du corps. Ce qu'elle ne sait pas, c'est qu'en posant sa main sur l'Arme de Service, elle venait de proposer sa candidature en tant que nouvelle directrice auprès d'une entité extra-dimensionnelle appelée "Le Conseil". Celui-ci a justement besoin de quelqu'un pour gérer l'actuelle crise du Bureau : Une entité maléfique, nommée le Hiss, a débarqué d'une autre dimension et est en train de prendre le contrôle du personnel du BFC. Il est actuellement confiné dans les locaux du BFC, l'Ancienne Maison, mais qui sait ce qui pourrait arriver s'il venait à s'échapper ? En échange, Jesse pourra utiliser son statut de Directrice pour obtenir des informations sur son frère ainsi que sur les évènements paranormaux s'étant déroulés à Ordinary dans sa jeunesse.
+
+* Jeu :
+    * TPS avec des mécaniques spécifiques :
+        * Pas de couvertures derrière les murets, le jeu vous demande d'être toujours en mouvement. Seul blesser les ennemis vous permettra d'avoir du soin, ça ne sert à rien d'aller se cacher en attendant que votre santé remonte.
+        * L'arme de service : arme unique pouvant changer de forme et de type de tir (rafales, précision, puissance, explosifs, ...). Pas de munitions, l'arme se recharge lorsque vous ne l'utilisez pas.
+        * Pouvoirs : En vous liant à des objets de pouvoir, vous obtiendrez de nouvelles capacités : lancer des éléments du décors sur vos ennemis, créer une barrière de gravats, esquiver. Utiliser vos pouvoirs vous demande de l'endurance.
+        * On a donc un cycle intéressant dans les combats : tirer pendant que votre endurance remonte et utilise vos pouvoirs en attendant que votre arme se recharge.
+
+    * Level design Metroïd-like :
+        * Une architecture labyrinthique, des raccourcis, des zones qu'on revisite, des points de passage auxquels on peut se téléporter, des zones secrètes ou optionnelles, des ennemis qui réapparaissent, des lieux accessibles qu'après avoir obtenu la bonne carte d'accès/le bon pouvoir...
+        * J'aime beaucoup ce type de LD.
+
+    * Progression du personnage :
+        * On découvre au fur et à mesure de l'histoire de nouveaux pouvoirs. Certains sont cachés dans des quêtes optionnelles, donc faites attention.
+        * Pour l'arme de service, on ramasse des matériaux permettant de construire de nouvelles formes et de les améliorer.
+        * On débloque aussi des points de compétences en remplissant des quêtes et en trouvant des zones/secrets. Ils permettent d'améliorer notre personnage (santé, endurance, pouvoirs).
+        * On trouve aussi des "mods" pour les formes d'arme et pour Jesse, permettant d'améliorer certaines caractéristiques ou d'avoir des effets supplémentaires. Je trouve cependant que l'inventaire est trop petit, du coup on est trop souvent dans le menu pour tenter de faire un peu de place tout en gardant les modules qui nous intéressent.
+
+* Il y a des moments marquants dans le jeu, comme le labyrinthe du cendrier avec la musique. Des lieux iconiques, comme le générateur, la hotline, la mine, l'hôtel Oceanview.
+* La touche Remedy avec des prises de vues réelles : On croisera souvent des enregistrements du Dr Casper Darling filmées avec de vrais acteurs. (Notamment un enregistrement qui est de la "dynamite" !)
+* DLC fondation : le décors change drastiquement, on se retrouve dans des grottes de pierre blanches avec un sol recouvert de sable rouge. Permet d'approfondir l'histoire du Bureau et du Conseil.
+* DLC AWE : Tourne autour des évènements de Bright Falls et du personnage d'Alan Wake, héros d'un précédent jeu du développeur. Il pourra vous intéresser si vous avez joué à Alan Wake et que vous souhaitez approfondir le lien entre les deux univers, mais pour le côté gameplay je n'ai trouvé un peu moins intéressant que Fondation.
+* Doublage français : gros problèmes de synchronisation labiale et de direction d'acteurs, on dirait qu'ils n'avaient que le texte comme support. La seule exception à ça sont les séquences filmées du Dr Darling, peut-être avaient-ils les enregistrements à ce moment-là ?
