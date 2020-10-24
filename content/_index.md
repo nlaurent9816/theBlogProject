@@ -1,5 +1,6 @@
 ---
 layout: page
-description: "Enfin un article digne de ce nom !"
+title: "The Blog Project"
+description: "Trois mois et je n'ai toujours pas abandonné ce site !"
 
 ---
