@@ -37,3 +37,11 @@
     - Je vous garde la surprise du dernier chapitre, sachez juste que ce qui semblait être jusque là des histoires sans liens vont se retrouver mêlées.
 - Le jeu mise énormément sur son ambiance : pas de surcharge d'effets, parfois l'appréhension apparaît dans l'attente. Dans le deuxième épisode, chaque manipulation est faite dans la crainte que quelque chose échappe à notre contrôle.
 - En anglais sous-titré anglais, il faudra être attentif lors de la 2ème histoire, où des consignes vous seront données à l'oral.
+
+# Night Call
+
+* Dernière victime et seul survivant d'un tueur en série, un chauffeur de taxi parisien se voit forcé par la police d'enquêter sur une liste de suspects en discutant avec ses clients nocturnes.
+* Curieux choix : trois enquêtes avec la même structure narrative, mais l'enquête est différente à chaque fois. De plus à partir du moment où on comprend comment fonctionne le jeu, il devient facile de deviner qui est le coupable.
+* Si les enquêtes ne sont pas très intéressantes, elles sont surtout un prétexte pour déambuler dans Paris et rencontrer ses habitants nocturnes. À chaque client son histoire, et entre les personnes ivres, les SDF, les gens de passage et les rencontres paranormales. C'est le principal attrait du jeu : rencontrer des gens, commencer à échanger avec eux, tenter d'en apprendre plus sur eux, ou au contraire laisser notre protagoniste se confier à eux, jusqu'à arriver à destination.
+* L'interface du jeu est singulière : tout en nour et blanc souligné de jaune, la moitié haute de l'écran est dédié à la carte de la capitale alors que l'autre montre une vue de l'habitacle du véhicule.
+* Un bug gênant qui m'est arrivé plusieurs fois : en arrivant sur un lieu d'intérêt il arrive de temps en temps de s'en faire éjecter sans aucune raison au bout de deux secondes, et sans possibilité d'y retourner.
