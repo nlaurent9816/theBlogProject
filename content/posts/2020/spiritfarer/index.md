@@ -2,9 +2,11 @@
 title:  "Spiritfarer"
 date: 2020-10-24T18:00:00+02:00
 tags: [jeu vidéo]
-featured_image: "posts/spiritfarer/Spiritfarer.jpg"
+aliases:
+    - /posts/spiritfarer/
+featured_image: "posts/2020/spiritfarer/Spiritfarer.jpg"
 images: 
-    - posts/spiritfarer/Spiritfarer.jpg
+    - posts/2020/spiritfarer/Spiritfarer.jpg
 description: "Dernier voyage"
 summary: "Aidez Stella dans sa dure tâche de passeuse d'âmes : accueillez des esprits à bord d'un bateau façonné par vos soins. Répondez à leurs requêtes pour les rendre heureux, avant que vienne le moment de les amener vers un monde meilleur."
 draft: false

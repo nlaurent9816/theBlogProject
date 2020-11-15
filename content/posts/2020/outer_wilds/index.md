@@ -2,9 +2,11 @@
 title: "Outer Wilds"
 date: 2020-07-19T17:00:00+02:00
 tags: [jeu vidéo]
-featured_image: "posts/outer_wilds/outerwilds1.jpg"
+aliases:
+  - /posts/outer_wilds/
+featured_image: "posts/2020/outer_wilds/outerwilds1.jpg"
 images: 
-  - posts/outer_wilds/outerwilds1.jpg
+  - posts/2020/outer_wilds/outerwilds1.jpg
 description: "Micro système stellaire, grande aventure."
 summary: "Une enquête archéologique dans un micro système stellaire. Enquêtez sur une civilisation disparue, visitez des planètes insolites et découvrez les mystères de l'Univers avant qu'il ne s'éffondre."
 draft: false

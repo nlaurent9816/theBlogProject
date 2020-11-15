@@ -2,9 +2,11 @@
 title:  "Danganronpa : Trigger Happy Havoc"
 date: 2020-08-26T20:00:00+02:00
 tags: [jeu vidéo]
-featured_image: "posts/danganronpa/danganronpa.jpg"
+aliases:
+    - /posts/danganronpa/
+featured_image: "posts/2020/danganronpa/danganronpa.jpg"
 images: 
-    - posts/danganronpa/danganronpa.jpg
+    - posts/2020/danganronpa/danganronpa.jpg
 description: "L'as des étudiants"
 summary: "Les étudiants ultimes de l'Académie du Pic de l'Espoir sont retenus prisonniers et forcés à s'entre-tuer ! Enquêtez sur les meurtres de vos camarades et démasquez les coupables pendant des procès dynamiques."
 draft: false

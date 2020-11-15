@@ -2,9 +2,11 @@
 title:  "Critiques pressées"
 date: 2020-11-10T11:00:00+01:00
 tags: [jeu vidéo, critiques pressées]
-featured_image: "posts/critiques-pressees-1/critiques-pressees1.jpg"
+aliases:
+    - /posts/critiques-pressees-1/
+featured_image: "posts/2020/critiques-pressees-1/critiques-pressees1.jpg"
 images: 
-    - posts/critiques-pressees-1/critiques-pressees1.jpg
+    - posts/2020/critiques-pressees-1/critiques-pressees1.jpg
 description: "Pour des gens pressés, par des gens pressés."
 summary: "Pour des gens pressés, par des gens pressés. Des analyses courtes de quatre jeux auxquels je ne me voyais pas écrire un article complet."
 draft: false

@@ -2,6 +2,8 @@
 title:  "Admonitions"
 date: 2020-08-15T21:00:00+02:00
 tags: [test,info]
+aliases:
+    - /posts/admonitions
 featured_image: ""
 images: 
 description: "Une nouvelle fonctionnalité pour le blog !"

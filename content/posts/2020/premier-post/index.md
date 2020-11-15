@@ -2,9 +2,11 @@
 title:  "Premier Post"
 date: 2020-07-09T18:46:49+02:00
 tags: [test,info]
-featured_image: "posts/premier-post/DSC_0144.JPG"
+aliases:
+    - /posts/premier-post/
+featured_image: "posts/2020/premier-post/DSC_0144.JPG"
 images:
-    - posts/premier-post/DSC_0144.JPG
+    - posts/2020/premier-post/DSC_0144.JPG
 description: "Les débuts de ce blog."
 summary: "Les débuts de ce blog."
 ---
