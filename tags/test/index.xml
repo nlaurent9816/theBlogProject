@@ -9,19 +9,19 @@
     <lastBuildDate>Sat, 15 Aug 2020 21:00:00 +0200</lastBuildDate><atom:link href="https://nlaurent9816.github.io/theBlogProject/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Admonitions</title>
-      <link>https://nlaurent9816.github.io/theBlogProject/posts/admonitions/</link>
+      <link>https://nlaurent9816.github.io/theBlogProject/posts/2020/admonitions/</link>
       <pubDate>Sat, 15 Aug 2020 21:00:00 +0200</pubDate>
       
-      <guid>https://nlaurent9816.github.io/theBlogProject/posts/admonitions/</guid>
+      <guid>https://nlaurent9816.github.io/theBlogProject/posts/2020/admonitions/</guid>
       <description>Une nouvelle fonctionnalité pour le blog !</description>
     </item>
     
     <item>
       <title>Premier Post</title>
-      <link>https://nlaurent9816.github.io/theBlogProject/posts/premier-post/</link>
+      <link>https://nlaurent9816.github.io/theBlogProject/posts/2020/premier-post/</link>
       <pubDate>Thu, 09 Jul 2020 18:46:49 +0200</pubDate>
       
-      <guid>https://nlaurent9816.github.io/theBlogProject/posts/premier-post/</guid>
+      <guid>https://nlaurent9816.github.io/theBlogProject/posts/2020/premier-post/</guid>
       <description>Les débuts de ce blog.</description>
     </item>
     
