@@ -12,7 +12,7 @@ init_site_submodule () {
 }
 
 build_site () {
-    hugo --cleanDestinationDir
+    hugo
 }
 
 publish_site () {
