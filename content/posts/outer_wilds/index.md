@@ -57,7 +57,7 @@ Après l'explication de la mission, le traducteur et les codes de lancement réc
 et effectuer votre premier décollage. Qu'allez-vous explorer en premier ? Commencerez-vous par un saut de puce en atteignant **la Rocaille**,
 le satellite d'Âtrebois ? Irez-vous explorer les insolites **Sablières** dont le sable de l'une se déverse dans l'autre, quitte à vous approcher du Soleil ?
 Êtes-vous plutôt curieux de savoir ce que cache l'atmosphère verte et opaque de **Léviathe** ? La surface de **Cravité**, la planète creuse ?
-Ou bien vous sentez-vous assez courageux pour explorer l'espace distordu de **Sombronces** ? (vous noterez d'ailleurs la qualité de l'adaptation française.)
+Ou bien vous sentez-vous assez courageux pour explorer l'espace distordu de **Sombronces** ? (Vous noterez d'ailleurs la qualité de l'adaptation française.)
 
 Chaque astre a **sa propre identité**, des mécaniques uniques qui le caractérise. Il vous faudra les comprendre pour percer certains mystères et progresser.
 L'exemple le plus parlant est celui de la **Lune Quantique**, ce satellite "farceur" qui orbite autour de toutes les planètes du système,
@@ -99,7 +99,7 @@ Premièrement, j'aime beaucoup ce qu'ils ont fait de **l'exploration spatiale**.
 il est agréable de se promener dans le système stellaire, notamment grâce à sa petite taille et les faibles distances à parcourir pour aller d'un endroit à un autre.
 Le pilotage n'en reste pas moins assez souple, proposant un système de ciblage et d'alignement de vitesse pour vous "immobiliser" par rapport avec votre cible,
 ainsi qu'un pilote automatique. Votre vaisseau se redresse aussi automatiquement à proximité d'une planète,
-vous permettant de vous poser sur ses tains d'atterrissage plus facilement.
+vous permettant de vous poser sur ses trains d'atterrissage plus facilement.
 
 Niveau exploration, j'ai été impressionné par la **diversité des planètes**. Elles n'ont beau être "que" six,
 elles sont grandement différentes les unes par rapport aux autres. De plus, leur petite taille permet d'éviter le syndrome des "grands espaces vides",

@@ -77,13 +77,13 @@ Au cours de vos pérégrinations, vous rencontrerez des esprits qui souhaiteront
 
 Mais il ne faut pas oublier de **vous occuper de vos invités** : vous aurez à les **nourrir**, tout en sachant que chacun a ses préférences, et vous pourrez leur remonter le moral à l'aide de **câlins**. Ils vous adresseront aussi des **demandes particulières** qu'il vous faudra remplir dans une suite de quêtes : se rendre sur une île, récolter certaines matières premières, leur donner un objet spécifique, construire ou améliorer des bâtiments sur votre navire, parler à certaines personnes, et j'en passe. **Plus un esprit est heureux, plus il vous aidera dans votre tâche**, en préparant des plats, en récoltant ou en travaillant des ressources pour vous. De plus, son histoire se dévoilera au fur et à mesure que vous l'aiderez. 
 
-Cette liste de requêtes se terminera souvent de la même façon : au moment venu, **votre pensionnaire vous demandera de l'amener au Seuil Éternel**. La fin du trajet se faisant en barque, ce sera l'occasion de discuter une dernière fois avec lui et d'échanger une dernière embrassade avant de le voir passer de l'autre côté.
+Cette liste de requêtes se terminera souvent de la même façon : au moment venu, **votre pensionnaire vous demandera de l'amener au Seuil Éternel**. La fin du trajet se faisant en barque, ce sera l'occasion de discuter une ultime fois avec lui et d'échanger une dernière embrassade avant de le voir passer de l'autre côté.
 
 ![](calin.png "Un dernier câlin avant de partir.")
 
 # L'enfer est pavé de bonnes intentions
 
-J'ai cependant **quelques soucis avec la manière dont le jeu est équilibré entre histoire et gameplay**. Ce dernier, en plus d'éléments de plateformes, se base essentiellement sur la culture, la récolte et la transformation de ressources. Cela vous demande de naviguer entre îles et points d'activités pour y récupérer des matières premières, et il faudra profiter du temps de trajet pour **transformer vos matériaux aux ateliers correspondants**. Comme pour d'autres jeux de ce genre, il faut trouver le bon équilibre pour éviter d'avoir l'impression de récolter et de travailler du bois en boucle.
+J'ai cependant **quelques soucis avec la manière dont le jeu est équilibré entre histoire et gameplay**. Ce dernier, en plus d'éléments de plateformes, se base essentiellement sur la culture, la récolte et la transformation de ressources. Cela vous demande de naviguer entre îles et points d'activités pour y récupérer des matières premières, et il faudra profiter du temps de trajet pour **transformer vos matériaux aux ateliers correspondants**. Comme pour d'autres jeux de ce genre, il faut trouver le bon équilibre pour éviter d'avoir l'impression de couper du bois en boucle.
 
 Le problème de Spiritfarer, c'est que cette **répétition s'étend aussi aux activités en mer**. Par exemple, vous en débloquerez rapidement une consistant à aider un dragon pour obtenir du quartz. Puis une semblable avec un autre dragon pour obtenir de l'aluminium. Puis une troisième pour l'argent, puis une quatrième pour l'or. Les gameplays sont similaires, il n'y a que la difficulté qui augmente. Sachant qu'il vous faudra faire les activités avec chaque dragon plusieurs fois pour obtenir suffisamment de minerais, **le sentiment de toujours faire la même chose s'en retrouve décuplé**.
 C'est aussi le cas des quêtes des passagers, il n'y a pas assez de diversité pour tenir sur les **vingt-cinq à trente heures que dure le jeu**. Arrivé au moment où vous vous rendez pour la énième fois à la fonderie et qu'un esprit auquel vous souhaitez juste donner de la nourriture commence à vous raconter son histoire, vous avez parfois l'impression qu'il vous fait perdre votre temps et vous passez les dialogues un peu vite. **On se retrouve dans un cas où le gameplay dessert la narration.** Ce qui est fort dommage, car le jeu a des choses intéressantes à raconter à travers ses personnages.
@@ -94,11 +94,11 @@ Un petit mot sur la technique : **j'ai apprécié les graphismes** tout en dessi
 
 Enfin, il faut savoir que le jeu dispose d'un **mode coopératif** où le deuxième joueur incarne Daffodil, mais ne l'ayant pas essayé je ne peux pas vous en parler.
 
-![](diner.png "On ne refuse jamais un dîner festif entre amis !")
+![](diner.png "On ne dit jamais non à un dîner festif entre amis !")
 
 # Le travail d'une vie
 
-Tout au long du jeu nous croisons des esprits nous narrant l'histoire de leur vie. Mais qu'en est-il pour l'héroïne du jeu ? **Quelle était la vie de Stella avant de devenir passeuse d'âmes ?**
+Tout au long du jeu nous croisons des esprits nous narrant l'histoire de leur vie. Mais qu'en est-il pour notre protagoniste ? **Quelle était la vie de Stella avant de devenir passeuse d'âmes ?**
 
 {{< admonitions "Attention, la partie qui va suivre contient des révélations sur l'histoire de Stella." "dark-red" >}}
 Si vous préférez la découvrir par vous-même, vous pouvez directement sauter à la [Conclusion](#conclusion).
@@ -133,13 +133,13 @@ Traduction (faite avec [Deepl](https://www.deepl.com/home "Bien meilleur que Goo
 
 {{< /admonitions >}}
 
-*<<Chaque endroit que vous visitez, chaque esprit que vous rencontrez et chaque événement auquel vous assisterez sont directement liés à la vie de Stella.>>* Si j'ai déjà expliqué que les esprits sont pour la plupart des connaissances de l'héroïne, il est intéressant de noter que **les décors des îles rappellent les lieux dans lesquels elle a vécu**. On croise des maisons à colombages et des forêts de conifères qui évoquent l'Alsace, des architectures japonaises traditionnelles inspirées de Shirakawa-gō, ou encore Oxbury qui est une île urbaine inspirée de Montréal.
+*<< Chaque endroit que vous visitez, chaque esprit que vous rencontrez et chaque événement auquel vous assisterez sont directement liés à la vie de Stella. >>* Si j'ai déjà expliqué que les esprits sont pour la plupart des connaissances de l'héroïne, il est intéressant de noter que **les décors des îles rappellent les lieux dans lesquels elle a vécu**. On croise des maisons à colombages et des forêts de conifères qui évoquent l'Alsace, des architectures japonaises traditionnelles inspirées de Shirakawa-gō, ou encore Oxbury qui est une île urbaine inspirée de Montréal.
 
-Mais la partie la plus intéressante est au début de l'extrait : *<<Stella [...] était infirmière en soins palliatifs, [...] elle accompagnait ceux qui n'avaient peut-être plus beaucoup de temps à vivre, et soulageait leur douleur en étant là pour eux.>>*. Or, tout le long du jeu, elle est aux petits soins des esprits qu'elle accueille sur son navire avant de les emmener vers l'au-delà. Dans la mort comme de son vivant, Stella a toujours accompagné des personnes jusqu'à leur trépas tout en se mettant à leur service. **Le travail de la passeuse d'âme est en réalité un écho à son ancien métier d'infirmière.** Et en tant que joueur, nous accompagnons Stella dans son dernier voyage comme elle accompagnait ses patients de son vivant.
+Mais la partie la plus intéressante est au début de l'extrait : *<< Stella [...] était infirmière en soins palliatifs, [...] elle accompagnait ceux qui n'avaient peut-être plus beaucoup de temps à vivre, et soulageait leur douleur en étant là pour eux. >>*. Or, tout au long du jeu, elle est aux petits soins des esprits qu'elle accueille sur son navire avant de les emmener vers l'au-delà. Dans la mort comme de son vivant, Stella a toujours accompagné des personnes jusqu'à leur trépas tout en se mettant à leur service. **Le travail de la passeuse d'âmes est en réalité un écho à son ancien métier d'infirmière.** Et en tant que joueur, nous accompagnons Stella dans son dernier voyage comme elle accompagnait ses patients de son vivant.
 
-Spiritfarer prend alors un nouveau sens. On est alors tenté de rattacher certains éléments du jeu à cette parabole. Par exemple, la forte sensation de répétition dans les mécaniques de jeu raconterait la pénibilité du travail des professionnels de santé. Notez cependant que si cela explique ce défaut énoncé plus haut, je le considère tout de même toujours comme nuisant à l'attention envers les histoires des esprits. Mais dès que les clés de compréhension sont là, on voit beaucoup mieux la cohésion entre narration et gameplay.
+Spiritfarer prend alors un nouveau sens. On est tenté de rattacher certains éléments du jeu à cette parabole. Par exemple, la forte sensation de répétition dans les mécaniques de jeu raconterait la pénibilité du travail des professionnels de santé. Notez cependant que si cela explique ce défaut énoncé plus haut, je le considère tout de même toujours comme nuisant à l'attention envers les histoires des esprits. Mais dès que les clés de compréhension sont là, on voit beaucoup mieux la cohésion entre narration et gameplay.
 
-![](souvenirs.png "Stella se souvenant de sa jeunesse. Rêvait-elle de faire le Tour de France à l'époque ?")
+![](souvenirs.png "Stella se souvenant de sa jeunesse. Rêvait-elle de faire le Tour de France à l'époque ?")
 
 # Conclusion
 
@@ -149,8 +149,8 @@ Pour ceux ne redoutant ni la mélancolie ni la répétitivité, Spiritfarer saur
 * Jeu de gestion cozy sur le thème de la mort.
 * Développé par **Thunder Lotus Games**
 * Sorti le **18 août 2020** sur PC/PS4/XBox/Switch/Stadia.
-* Joué en **septembre 2020** Nintendo Switch.
-* Mon appréciation : **Personnages attachants, décors magnifiques, possibilité de personnaliser son bateau... Au final, Spiritfarer d'a qu'un gros défaut, qu'il partage avec l'éternité : c'est long, surtout vers la fin.**
+* Joué en **septembre 2020** sur Nintendo Switch.
+* Mon appréciation : **Personnages attachants, décors magnifiques, possibilité de personnaliser son bateau... Au final, Spiritfarer n'a qu'un gros défaut, qu'il partage avec l'éternité : c'est long, surtout vers la fin.**
 {{< /info >}}
 
 # Pour aller plus loin
