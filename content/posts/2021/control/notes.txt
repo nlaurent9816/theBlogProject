@@ -30,3 +30,4 @@
 * DLC fondation : le décors change drastiquement, on se retrouve dans des grottes de pierre blanches avec un sol recouvert de sable rouge. Permet d'approfondir l'histoire du Bureau et du Conseil.
 * DLC AWE : Tourne autour des évènements de Bright Falls et du personnage d'Alan Wake, héros d'un précédent jeu du développeur. Il pourra vous intéresser si vous avez joué à Alan Wake et que vous souhaitez approfondir le lien entre les deux univers, mais pour le côté gameplay je n'ai trouvé un peu moins intéressant que Fondation.
 * Doublage français : gros problèmes de synchronisation labiale et de direction d'acteurs, on dirait qu'ils n'avaient que le texte comme support. La seule exception à ça sont les séquences filmées du Dr Darling, peut-être avaient-ils les enregistrements à ce moment-là ?
+* Les temps de chargement peuvent être bien longs sur PC, même avec un SSD.
