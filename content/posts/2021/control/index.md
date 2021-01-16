@@ -11,7 +11,23 @@ draft: true
 toc: false
 ---
 
-> *Intro à faire...*
+> ## Planeur en polystyrène (AI72-KE)
+>
+> {{< add-class "fr w-40-ns ma4-ns mb2" >}}![](avion.jpg){{< /add-class >}}
+>
+> *{{< add-class "underline" >}}PROCÉDURE DE CONFINEMENT :{{< /add-class >}}*
+>
+> L'objet doit être stocké dans le coffret en pierre noire prévu à cet effet, surtout lors de son transport.
+>
+> *{{< add-class "underline" >}}DESCRIPTION/EFFET D'ALTÉRATION :{{< /add-class >}}*
+>
+> L'objet est un planeur en polystyrène vert pomme de 19 centimètres de long pour 18 centimètres de large. Il est décoré de motifs rouges et jaunes. Des études sur le matériau le constituant indiquent que, bien qu'ayant la densité du polystyrène, sa résistance est bien supérieure, ce qui laisserait penser que l'objet est en réalité constitué de █████████.  
+> Après avoir été lancé dans les airs, le planeur peut produire une onde de choc semblable à celle d'un avion supersonique. Ce phénomène se produit pendant le vol de l'objet et à des vitesses bien inférieurs à celles normalement nécessaires. L'onde de choc produite peut endommager tout ce qui se trouve dans un rayon de ██ mètres autour de l'objet.  
+> Un enregistrement du phénomène révèle que ███████████████████████ ███████████████ et on peut distinguer ███████████████████████████ ████████████████████████████ ████████████████████████ ████████ sonore.
+>
+> *{{< add-class "underline" >}}ANTÉCÉDENTS :{{< /add-class >}}*
+>
+> L'objet a été récupéré par le Bureau le ██/██/1995 à ██████ suite à des plaintes de nuisances. L'objet, alors détenu par un enfant, avait causé la casse des fenêtres de sa maison ainsi que de celle de plusieurs de ses voisins.
 
 ![](sep_bureau.png "Des bureaux qui semblent on ne peut plus normaux...")
 
@@ -19,7 +35,7 @@ Amateurs de **paranormal**, d'organisations gouvernementales secrètes et de doc
 
 # Un premier jour de travail mouvementé
 
-L'histoire débute par notre protagoniste, **Jesse Faden**, entrant dans le **Bureau Fédéral de Contrôle**. Le BFC est une entité d'État dont le rôle est d'enquêter sur des phénomènes paranormaux et de les maîtriser, tout cela sans que le grand publique n'en sache rien. 
+L'histoire débute par notre protagoniste, **Jesse Faden**, entrant dans le **Bureau Fédéral de Contrôle**. Le BFC est une entité d'État dont le rôle est d'enquêter sur des phénomènes paranormaux et de les maîtriser, tout cela sans que le grand public n'en sache rien. 
 Si Jesse est là, ce n'est pas par hasard : il y a de cela des années, après un **évènement d'altération du monde** s'étant déroulé dans sa ville natale, des agents du BFC ont débarqué et **kidnappé son frère**.
 L'incident n'a pas été sans impact sur la jeune fille : en plus de traumatismes psychiques, une entité d'un autre monde s'est glissée dans son esprit, lui donnant quelques capacités de résistance au paranormal.
 Avec l'aide de cette entité appelée **Polaris**, et après des années de recherches, elle a enfin réussi à retrouver la piste de cette agence secrète et est bien décidée à récupérer ce qu'ils lui ont enlevé.
@@ -33,7 +49,7 @@ Ce que notre héroïne ne sait pas, c'est qu'en posant sa main sur l'**Arme de S
 Celui-ci a justement besoin de quelqu'un pour gérer l'actuelle crise du Bureau : une entité maléfique, nommée **le Hiss**, a débarqué d'une autre dimension et est en train de prendre le contrôle du personnel du BFC. Il est actuellement confiné dans l'**Ancienne Maison**, un bâtiment aux murs mouvants servant de locaux au bureau, mais qui sait ce qui pourrait arriver s'il venait à s'échapper ?
 En échange de son aide pour repousser le Hiss, Jesse pourra utiliser son statut de **Directrice** pour obtenir des informations sur son frère ainsi que sur les évènements paranormaux dont elle fut témoin dans sa jeunesse.
 
-Il faudra se montrer prudent : l'attaque du Hiss a aussi libéré des **Objets altérés** normalement confinés dans l'Ancienne Maison. Ces objets, d'apparence anodine (un frigo, un canard en plastique, ou encore un téléviseur) peuvent se révéler dangereux en libertés. Certains de ces objets, appelés **Objets de Pouvoir**, peuvent être contrôlés pour acquérir de nouvelles capacités, comme de la télékinésie ou du contrôle mental.
+Il faudra se montrer prudent : l'attaque du Hiss a aussi libéré des **Objets altérés** normalement confinés dans l'Ancienne Maison. Ces objets, d'apparence anodine (un frigo, un canard en plastique, ou encore un téléviseur) peuvent se révéler dangereux en liberté. Certains de ces objets, appelés **Objets de Pouvoir**, peuvent être contrôlés pour acquérir de nouvelles capacités, comme de la télékinésie ou du contrôle mental.
 
 ![](sep_interrupteur.png "Même actionner un interrupteur à tirette peut présenter un risque au BFC.")
 
@@ -42,7 +58,7 @@ Il faudra se montrer prudent : l'attaque du Hiss a aussi libéré des **Objets a
 
 Entités abstraites, dimensions parallèles, évènements paranormaux... Comme vous avez pu le constater, le thème narratif du jeu puise dans le **fantastique**, le **paranormal**, avec une touche de science-fiction. Ce sont des thèmes que **Remedy**, les développeurs du jeu, ont déjà explorés auparavant (*Alan Wake, Quantum Break...*), auquel s'ajoute une démarche **analytique**.
 
-Cela passe notamment par tous ces **laboratoires d'analyse** sur la chance, les rites ou le plan astral, et tous ces rapports et autres **documents caviardés** sur les Objets Altérés et les interventions du Bureau sur le terrain, qui ne sont pas sans rappeler le site de la [fondation SCP](http://fondationscp.wikidot.com/ "Ne leur dites pas que c'est moi qui vous envoie, ou *ils* viendront me chercher !").
+Cela passe notamment par tous ces **laboratoires d'analyses** sur la chance, les rites ou le plan astral, et tous ces rapports et autres **documents caviardés** sur les Objets Altérés et les interventions du Bureau sur le terrain, qui ne sont pas sans rappeler le site de la [fondation SCP](http://fondationscp.wikidot.com/ "Ne leur dites pas que c'est moi qui vous envoie, ou *ils* viendront me chercher !").
 Ce fut pour moi un plaisir de parcourir ces papiers pour découvrir les propriétés incongrues de ces babioles d'apparence ordinaire. Cela va du **ventilateur** qui étouffe les personnes à proximité au **miroir** permettant de se rendre dans une autre dimension. Si certains de ces objets n'existent qu'en écrit, d'autres font l'objet de **missions secondaires** et peuvent se cacher au bout d'un passage dérobé, alors ouvrez l'œil !
 
 Ce jeu est aussi l'occasion pour le studio finlandais de faire des références à ses précédents titres, tout particulièrement à **Alan Wake** au vu du nombre de documents traitant des évènements de Bright Falls. Plus encore, avec sa seconde extension **AWE**, l'histoire de *Control* se mêle avec celle de l'ancien titre de Remedy et pose les bases d'un univers connecté, tout en annonçant le retour de l'écrivain maudit.
@@ -67,26 +83,26 @@ Mais n'espérez pas y flâner insouciamment, car le Hiss vous enverra des hordes
 La première est un pistolet pouvant **changer de forme**, et donc de type de tir. Elle est capable de passer d'une mitraillette à un fusil à pompe en un clin d'œil. Ne vous inquiétez pas pour les munitions, car elle se les régénère lorsqu'elle n'est pas utilisée.
 En attendant, vous pouvez utiliser vos pouvoirs pour **balancer des meubles** sur vos ennemis ou vous **créer un bouclier de gravats**. Notez que ces capacités consomment une **barre d'endurance**, qui elle aussi se recharge lorsque vous ne l'utilisez pas. Il vous faudra donc gérer ces temps de recharge en **alternant intelligemment entre votre arme et vos pouvoirs**.
 
-Un autre conseil : le jeu vous demande de rester **mobile**, alors évitez de camper sur une position et de laisser les ennemis approcher, sachant que vous pouvez rapidement vous faire submerger. D'autant plus que votre **santé ne remonte pas toute seule**, elle est lâchée par les ennemis auxquels vous faites des dégâts, mais il vous faudra aller la ramasser, ce qui souvent signifie aller au devant du danger. Tout cela donne des **affrontements dynamiques** mélangeant armes de tirs et super pouvoirs.
+Un autre conseil : le jeu vous demande de rester **mobile**, alors évitez de camper sur une position et de laisser les ennemis approcher, sachant que vous pouvez rapidement vous faire submerger. D'autant plus que votre **santé ne remonte pas toute seule**, elle est lâchée par les ennemis auxquels vous faites des dégâts, mais il vous faudra aller la ramasser, ce qui souvent signifie aller au-devant du danger. Tout cela donne des **affrontements dynamiques** mélangeant armes de tir et super pouvoirs.
 
-Enfin, votre arsenal pourra être **amélioré** par des modificateurs et des points de compétences. Cependant, à quelques exceptions près, je n'ai pas vu d'évolutions flagrantes apporté par ces améliorations, à part d'être constamment en train de faire du ménage dans **ce menu de mods avec trop peu de place**.
+Enfin, votre arsenal pourra être **amélioré** par des modificateurs et des points de compétences. Cependant, à quelques exceptions près, je n'ai pas vu d'évolutions flagrantes apportées par ces améliorations, à part d'être constamment en train de faire du ménage dans **ce menu de mods avec trop peu de place**.
 
 ![](sep_sonnette.png "On a beau sonner, personne ne vient...")
 
 # En rouge et gris
 
-**J'aime beaucoup d'esthétique du jeu.** Outre les grandes structures bétonnées, la manière dont l'antagoniste se manifeste en ces lieux est remarquable : les corps flottants et psalmodiant, la déstructuration des murs, ou tout simplement **le rouge vif indiquant la présence du Hiss**. Il y a aussi les vidéos en prise de vue réelle, signature du studio, qui reviennent ici sous forme de **petites présentations du Docteur Darling** sur l'avancement de ses recherches. Enfin, une fonctionnalité graphique dont je n'ai pas pu profiter car mon PC n'a pas de carte graphique appropriée, mais *Control* est l'un des premiers jeux à exploiter le **ray tracing** pour les reflets sur certaines surfaces.
+**J'aime beaucoup d'esthétique du jeu.** Outre les grandes structures bétonnées, la manière dont l'antagoniste se manifeste en ces lieux est remarquable : les corps flottants et psalmodiant, la déstructuration des murs, ou tout simplement **le rouge vif indiquant la présence du Hiss**. Il y a aussi les vidéos en prises de vues réelles, signature du studio, qui reviennent ici sous forme de **petites présentations du docteur Darling** sur l'avancement de ses recherches. Enfin, une fonctionnalité graphique dont je n'ai pas pu profiter, car mon PC n'a pas de carte graphique appropriée, mais *Control* est l'un des premiers jeux à exploiter le **ray tracing** pour les reflets sur certaines surfaces.
 
-Tant qu'on est à parler de **technique**, si j'ai eu des retours que certaines versions consoles avaient des difficultés à la sortie du jeu, la version PC sur laquelle j'ai joué il y a quelques mois m'a parue **solide**. Seul bémol, les temps de chargements qui s'éternisent malgré l'installation du logiciel sur un SSD.
+Tant qu'on est à parler de **technique**, si j'ai eu des retours que certaines versions consoles avaient des difficultés à la sortie du jeu, la version PC sur laquelle j'ai joué il y a quelques mois m'a paru **solide**. Seul bémol, les temps de chargements qui s'éternisent malgré l'installation du logiciel sur un SSD.
 
-Un autre reproche à faire au jeu, c'est **l'interprétation des voix françaises** pour laquelle la qualité n'est pas au rendez-vous. Ce qui saute aux yeux en premier est la **synchronisation labiale** qui est déplorable dans les dialogues, on se retrouve trop souvent avec des personnages bougeant les lèvres sans rien dire. **À l'écrit, ça passe**, et la pléthore de documents optionnels est agréable à parcourir, mais j'ai l'impression que les doubleurs ont manqué du support de la version originale pour les aiguiller. Quel dommage ! Surtout que le seul élément que ne semble ne pas souffrir de ce souci de synchronisation est la collection d'enregistrements de Darling. Peut-être avaient-ils accès aux vidéos cette fois-ci ?
+Un autre reproche à faire au jeu, c'est **l'interprétation des voix françaises** pour laquelle la qualité n'est pas au rendez-vous. Ce qui saute aux yeux en premier est la **synchronisation labiale** qui est déplorable dans les dialogues, on se retrouve trop souvent avec des personnages bougeant les lèvres sans rien dire. **À l'écrit, ça passe**, et la pléthore de documents optionnels est agréable à parcourir, mais j'ai l'impression que les doubleurs ont manqué du support de la version originale pour les aiguiller. Quel dommage ! Surtout que le seul élément que ne semble pas souffrir de ce souci de synchronisation est la collection d'enregistrements de Darling. Peut-être avaient-ils accès aux vidéos cette fois-ci ?
 
 ![](sep_fondation.png "Et je ne vous ai pas parlé de l'extension 'Fondation', aux décors dépaysants de grottes au sol recouvert de sable rouge.")
 
 
 # Conclusion
 
-Une histoire originale, des environnements impressionnants, un *gameplay* jouissif et des mécaniques inventives, on peut dire que ***Control* arrive à briller dans beaucoup de catégories**. Le studio *Remedy* a su exploiter son expérience acquise dans les TPS narratifs tout en essayant d'innover, aussi bien au niveau des mécaniques - avec les pouvoirs - que du level design beaucoup moins linéaire. Il est difficile de dire ce qui m'a le plus plu dans le jeu, mais si je dois retenir qu'une chose, alors ce serait tous ces moments à **explorer** les grands espaces de l'Ancienne Maison, **flottant** vers une place inexplorée, qui procurent un grand sentiment de **liberté**.
+Une histoire originale, des environnements impressionnants, un *gameplay* jouissif et des mécaniques inventives, on peut dire que ***Control* arrive à briller dans beaucoup de catégories**. Le studio *Remedy* a su exploiter son expérience acquise dans les TPS narratifs tout en essayant d'innover, aussi bien au niveau des mécaniques - avec les pouvoirs - que du level design beaucoup moins linéaire. Il est difficile de dire ce qui m'a le plus plu dans le jeu, mais si je dois retenir qu'une chose, alors ce seraient tous ces moments à **explorer** les grands espaces de l'Ancienne Maison, **flottant** vers une place inexplorée, qui procurent un grand sentiment de **liberté**.
 
 
 {{< info "Control" >}}
@@ -99,6 +115,16 @@ Une histoire originale, des environnements impressionnants, un *gameplay* jouiss
 
 # Pour aller plus loin
 
-* Fin du game
+Pas grand chose à vous recommander, à part l'émission qu'a consacré **Fin du Game** au jeu :
+
+{{< youtube gfHuxRgvgY4 >}}
+
+Pour compenser, et comme cadeau pour le début de l'année 2021, voici quelques clichés de mon cru faites avec le mode photo du jeu :
+
+![](interrupteur.jpg "Même actionner un interrupteur à tirette peut... Ah mince, je l'ai déjà dit ça !")
+
+![](horloge.jpg "D'où viennent toutes ces horloges ? Plus troublant encore : pourquoi aucune d'entre elles n'a d'aiguilles ?")
+
+![](lumière.jpg "Une silhouette se détache dans la lumière...")
 
 ![](lettres_mortes.jpg "Je sais que je me répète, mais l'architecture de l'Ancienne Maison est magnifique !")

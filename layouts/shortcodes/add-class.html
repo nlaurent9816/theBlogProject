@@ -1,0 +1,2 @@
+{{$myClasses:= .Get 0 | default ""}}
+{{partial "add-class.html" (dict "myClasses" $myClasses "content" (.Inner|markdownify))}}
