@@ -1,13 +1,13 @@
 ---
 title:  "Control"
-date: 2021-01-11T21:23:20+01:00
+date: 2021-01-22T21:22:30+01:00
 tags: [jeu vidéo]
 featured_image: "posts/2021/control/control.jpg"
 images:
     - posts/2021/control/control.jpg
 description: "Tout en maîtrise"
 summary: "Bienvenue au Bureau Fédéral de Contrôle, l'organisation gouvernementale chargée de gérer les évènements paranormaux. À peine entrée et déjà directrice, Jesse doit gérer la crise créée par l'apparition d'une entité pernicieuse appelée le Hiss. Il ne tient qu'à vous de la guider dans un environnement à la géométrie instable renfermant des objets aux étranges pouvoirs."
-draft: true
+draft: false
 toc: false
 ---
 
@@ -21,7 +21,7 @@ toc: false
 >
 > *{{< add-class "underline" >}}DESCRIPTION/EFFET D'ALTÉRATION :{{< /add-class >}}*
 >
-> L'objet est un planeur en polystyrène vert pomme de 19 centimètres de long pour 18 centimètres de large. Il est décoré de motifs rouges et jaunes. Des études sur le matériau le constituant indiquent que, bien qu'ayant la densité du polystyrène, sa résistance est bien supérieure, ce qui laisserait penser que l'objet est en réalité constitué de █████████.  
+> L'objet est un planeur en polystyrène vert pomme de 19 centimètres de long pour 18 centimètres de large. Il est décoré de motifs rouge et jaune. Des études sur le matériau le constituant indiquent que, bien qu'ayant la densité du polystyrène, sa résistance est bien supérieure, ce qui laisserait penser que l'objet est en réalité constitué de █████████.  
 > Une fois lancé dans les airs, le planeur peut produire une onde de choc semblable à celle d'un avion supersonique. Ce phénomène se produit pendant le vol de l'objet et à des vitesses bien inférieurs à celles normalement nécessaires. L'onde de choc produite peut endommager tout ce qui se trouve dans un rayon de ██ mètres autour de l'objet.  
 > Un enregistrement du phénomène révèle que ███████████████████████ ███████████████ et on peut distinguer ███████████████████████████ ████████████████████████████ ████████████████████████ ████████ sonore.
 >
@@ -51,14 +51,14 @@ En échange de son aide pour repousser le Hiss, Jesse pourra utiliser son statut
 
 Il faudra se montrer prudent : l'attaque du Hiss a aussi libéré des **Objets altérés** normalement confinés dans l'Ancienne Maison. Ces objets, d'apparence anodine (un frigo, un canard en plastique, ou encore un téléviseur) peuvent se révéler dangereux en liberté. Certains de ces objets, appelés **Objets de Pouvoir**, peuvent être contrôlés pour acquérir de nouvelles capacités, comme de la télékinésie ou le contrôle mental.
 
-Jesse croisera aussi des personnes ayant échappé au contrôle de l'ennemi. Elle pourra compter sur le soutien entre autres d'**Emily Pope**, successeur à l'excentrique Docteur Darling à la tête du département des recherches, ainsi que d'**Helen Marshall**, ancienne agent de la CIA à la tête des opérations du Bureau. Elle retrouvera aussi **Ahti**, le mystérieux concierge qui l'a accueilli et qui connaît l'Ancienne Maison comme sa poche. 
+Jesse croisera aussi des personnes ayant échappé au contrôle de l'ennemi. Elle pourra compter sur le soutien entre autres d'**Emily Pope**, successeur à l'excentrique Docteur Darling à la tête du département des recherches, ainsi que d'**Helen Marshall**, ex-agent de la CIA à la tête des opérations du Bureau. Elle retrouvera aussi **Ahti**, le mystérieux concierge qui l'a accueilli et qui connaît l'Ancienne Maison comme sa poche. 
 
 ![](sep_interrupteur.png "Même actionner un interrupteur à tirette peut présenter un risque au BFC.")
 
 
 # À la lisière d'autres mondes
 
-Entités abstraites, dimensions parallèles, évènements paranormaux... Comme vous avez pu le constater, le thème narratif du jeu puise dans le **fantastique**, le **paranormal**, avec une touche de science-fiction. Ce sont des thèmes que **Remedy**, les développeurs du jeu, ont déjà explorés auparavant (*Alan Wake, Quantum Break...*), auquel s'ajoute une couche bureaucratique.
+Entités abstraites, dimensions parallèles, évènements paranormaux... Comme vous avez pu le constater, la narration du jeu puise dans le **fantastique**, le **paranormal**, avec une touche de science-fiction. Ce sont des thématiques que **Remedy**, les développeurs du jeu, ont déjà explorés auparavant (*Alan Wake, Quantum Break...*), auquel s'ajoute une couche bureaucratique.
 
 Cela passe notamment par tous ces **laboratoires d'analyses** sur la chance, les rites ou le plan astral, et tous ces rapports et autres **documents caviardés** sur les Objets Altérés et les interventions du Bureau sur le terrain, qui ne sont pas sans rappeler le site de la [fondation SCP](http://fondationscp.wikidot.com/ "Ne leur dites pas que c'est moi qui vous envoie, ou *ils* viendront me chercher !").
 Ce fut pour moi un plaisir de parcourir ces papiers pour découvrir les propriétés incongrues de ces babioles d'apparence ordinaire. Cela va du **ventilateur** qui étouffe les personnes à proximité au **miroir** permettant de se rendre dans une autre dimension. Si certains de ces objets n'existent qu'en écrit, d'autres font l'objet de **missions secondaires** et peuvent se cacher au bout d'un passage dérobé, alors ouvrez l'œil !
@@ -85,7 +85,7 @@ J'apprécie particulièrement **m'approprier les lieux** à force d'y faire des 
 Mais n'espérez pas y flâner insouciamment, car le Hiss vous enverra des hordes d'ennemis pour vous arrêter. Ces assauts pourront être repoussés par Jesse grâce à l'**Arme de service**, un pistolet pouvant **changer de forme**, et donc de type de tir. Elle est capable de passer d'une mitraillette à un fusil à pompe en un clin d'œil. Ne vous inquiétez pas pour les munitions, car l'Arme se les régénère lorsqu'elle n'est pas utilisée.
 En attendant, vous pouvez utiliser vos **capacités**, données par le Conseil au travers des Objets de pouvoir. À vous de découvrir les joies de **balancer des meubles** sur vos ennemis ou de vous **créer un bouclier de gravats**. Notez que ces capacités consomment une **barre d'endurance**, qui elle aussi se recharge lorsque vous ne l'utilisez pas. Il vous faudra donc gérer ces temps de recharge en **alternant intelligemment entre votre arme et vos pouvoirs**.
 
-En face de vous, l'opposition sera tout d'abord constituée de **la milice du Bureau** sous le contrôle du Hiss et à l'armement diversifié. Cela reste plutôt classique dans un TPS, mais ils seront très vite rejoints par **des ennemis aux capacités paranormales**, capable notamment de voler, d'exploser ou de se rendre invisibles. Chacun a ses forces et ses faiblesses, il vous faudra rester sur vos gardes lors des assauts pour y offrir la réponse adéquate. Par exemple, les boucliers d'énergie sont plus sensibles aux pouvoirs qu'aux balles.
+En face de vous, l'opposition sera tout d'abord constituée de **la milice du Bureau** sous le contrôle du Hiss et à l'armement diversifié. Cela reste plutôt classique dans un TPS, mais ils seront très vite rejoints par **des ennemis aux capacités paranormales**, capables de voler, d'exploser ou de se rendre invisibles. Chacun a ses forces et ses faiblesses, il vous faudra rester sur vos gardes lors des assauts pour y offrir la réponse adéquate. Par exemple, les boucliers d'énergie sont plus sensibles aux pouvoirs qu'aux balles.
 
 Un autre conseil : le jeu vous demande de rester **mobile**, alors évitez de camper sur une position et de laisser les ennemis approcher, sachant que vous pouvez rapidement vous faire submerger. D'autant plus que votre **santé ne remonte pas toute seule**, elle est lâchée par les ennemis auxquels vous faites des dégâts, mais il vous faudra aller la ramasser, ce qui souvent signifie aller au-devant du danger. Tout cela donne des **affrontements dynamiques** mélangeant armes de tir et super pouvoirs.
 
@@ -114,12 +114,12 @@ Une histoire originale, des environnements impressionnants, un *gameplay* jouiss
 * Développé par **Remedy Entertainment**
 * Sorti le **27 août 2019** sur PC/PS4/XBox One, puis plus tard sur Switch en version *cloud*.
 * Joué en **septembre 2020** sur PC.
-* Mon appréciation : **<Il / Nous approuvons le dit ludiciel / expérience intéractive comme étant divertissant / géniale.>**
+* Mon appréciation : **<Il / Nous approuvons ledit ludiciel / expérience interactive comme étant divertissant / géniale.>**
 {{< /info >}}
 
 # Pour aller plus loin
 
-Pas grand chose à vous recommander, à part l'émission qu'a consacré [**Fin du Game**](https://www.youtube.com/watch?v=gfHuxRgvgY4) au titre :
+Pas grand-chose à vous recommander, à part l'émission qu'a consacrée [**Fin du Game**](https://www.youtube.com/watch?v=gfHuxRgvgY4) au titre :
 
 {{< youtube gfHuxRgvgY4 >}}
 
