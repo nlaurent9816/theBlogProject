@@ -22,8 +22,8 @@ toc: false
 > *{{< add-class "underline" >}}DESCRIPTION/EFFET D'ALTÉRATION :{{< /add-class >}}*
 >
 > L'objet est un planeur en polystyrène vert pomme de 19 centimètres de long pour 18 centimètres de large. Il est décoré de motifs rouge et jaune. Des études sur le matériau le constituant indiquent que, bien qu'ayant la densité du polystyrène, sa résistance est bien supérieure, ce qui laisserait penser que l'objet est en réalité constitué de █████████.  
-> Une fois lancé dans les airs, le planeur peut produire une onde de choc semblable à celle d'un avion supersonique. Ce phénomène se produit pendant le vol de l'objet et à des vitesses bien inférieurs à celles normalement nécessaires. L'onde de choc produite peut endommager tout ce qui se trouve dans un rayon de ██ mètres autour de l'objet.  
-> Un enregistrement du phénomène révèle que ███████████████████████ ███████████████ et on peut distinguer ███████████████████████████ ████████████████████████████ ████████████████████████ ████████ sonore.
+> Une fois lancé dans les airs, le planeur peut produire une onde de choc semblable à celle d'un avion supersonique. Ce phénomène apparaît pendant le vol de l'objet et à des vitesses bien inférieurs à celles normalement nécessaires. L'onde de choc peut endommager tout ce qui se trouve dans un rayon de ██ mètres autour de l'objet.  
+> Un enregistrement du phénomène révèle que ██████████████████ █████ ███████████████ et on peut distinguer ██████ █████████████████████ ████████████████ ███████ █████ ████████ ████████████████ ████████ sonore.
 >
 > *{{< add-class "underline" >}}ANTÉCÉDENTS :{{< /add-class >}}*
 >
@@ -35,7 +35,7 @@ Amateurs de **paranormal**, d'organisations gouvernementales secrètes et de doc
 
 # Un premier jour de travail mouvementé
 
-L'histoire débute par notre protagoniste, **Jesse Faden**, entrant dans le **Bureau Fédéral de Contrôle**. Le BFC est une entité d'État dont le rôle est d'enquêter sur des phénomènes paranormaux et de les maîtriser, tout cela sans que le grand public n'en sache rien. 
+L'histoire débute par notre protagoniste, **Jesse Faden**, entrant dans le **Bureau Fédéral de Contrôle**. Le BFC est une entité d'État dont le rôle est d'enquêter sur des phénomènes paranormaux et de les maîtriser, tout cela sans que le grand public ne le sache. 
 Si Jesse est là, ce n'est pas par hasard : il y a de cela des années, après un **évènement d'altération du monde** s'étant déroulé dans sa ville natale, des agents du BFC ont débarqué et **kidnappé son frère**.
 L'incident n'a pas été sans impact sur la jeune fille : en plus de traumatismes psychiques, une entité d'un autre monde s'est glissée dans son esprit, lui donnant quelques capacités de résistance au paranormal.
 Avec l'aide de cette entité appelée **Polaris**, et après des années de recherches, elle a enfin réussi à retrouver la piste de cette agence secrète et est bien décidée à récupérer ce qu'ils lui ont enlevé.
@@ -46,12 +46,12 @@ Ce que notre héroïne ne sait pas, c'est qu'en posant sa main sur l'**Arme de S
 
 ![](sep_conseil.png "Le conseil, toujours représenté par cette pyramide inversée, et qui surplombe tout le plan Astral.")
 
-Celui-ci a justement besoin de quelqu'un pour gérer l'actuelle crise du Bureau : une entité maléfique, nommée **le Hiss**, a débarqué d'une autre dimension et est en train de prendre le contrôle du personnel du BFC. La menace est actuellement confinée dans l'**Ancienne Maison**, un bâtiment aux murs mouvants servant de locaux au bureau, mais qui sait ce qui pourrait arriver s'il venait à s'échapper ?
+Celui-ci a justement besoin de quelqu'un pour gérer l'actuelle crise du Bureau : une "résonance maléfique", nommée **le Hiss**, a débarqué d'une autre dimension et est en train de prendre le contrôle du personnel du BFC. La menace est actuellement confinée dans l'**Ancienne Maison**, un bâtiment aux murs mouvants servant de locaux au Bureau, mais qui sait ce qui pourrait arriver s'il venait à s'échapper ?
 En échange de son aide pour repousser le Hiss, Jesse pourra utiliser son statut de **Directrice** pour obtenir des informations sur son frère ainsi que sur les évènements paranormaux dont elle fut témoin dans sa jeunesse.
 
-Il faudra se montrer prudent : l'attaque du Hiss a aussi libéré des **Objets altérés** normalement confinés dans l'Ancienne Maison. Ces objets, d'apparence anodine (un frigo, un canard en plastique, ou encore un téléviseur) peuvent se révéler dangereux en liberté. Certains de ces objets, appelés **Objets de Pouvoir**, peuvent être contrôlés pour acquérir de nouvelles capacités, comme de la télékinésie ou le contrôle mental.
+Il faudra se montrer prudent : l'attaque du Hiss a aussi libéré des **Objets altérés** normalement confinés sous haute surveillance. Ces objets, d'apparence anodine (un frigo, un canard en plastique, ou encore un téléviseur) peuvent se révéler dangereux en liberté. Certains de ces objets, appelés **Objets de Pouvoir**, peuvent se lier à un hôte et lui conférer des capacités para-utilitaires, comme la télékinésie ou le contrôle mental.
 
-Jesse croisera aussi des personnes ayant échappé au contrôle de l'ennemi. Elle pourra compter sur le soutien entre autres d'**Emily Pope**, successeur à l'excentrique Docteur Darling à la tête du département des recherches, ainsi que d'**Helen Marshall**, ex-agent de la CIA à la tête des opérations du Bureau. Elle retrouvera aussi **Ahti**, le mystérieux concierge qui l'a accueilli et qui connaît l'Ancienne Maison comme sa poche. 
+Jesse croisera aussi du personnel ayant échappé au contrôle de l'ennemi. Elle pourra compter sur le soutien d'**Emily Pope**, successeur à l'excentrique docteur Darling à la tête du département des recherches, ainsi que celui d'**Helen Marshall**, ex-agent de la CIA à la tête des opérations du Bureau. Elle retrouvera aussi **Ahti**, le mystérieux concierge qui l'a accueillie et qui connaît l'Ancienne Maison comme sa poche. 
 
 ![](sep_interrupteur.png "Même actionner un interrupteur à tirette peut présenter un risque au BFC.")
 
@@ -61,7 +61,7 @@ Jesse croisera aussi des personnes ayant échappé au contrôle de l'ennemi. Ell
 Entités abstraites, dimensions parallèles, évènements paranormaux... Comme vous avez pu le constater, la narration du jeu puise dans le **fantastique**, le **paranormal**, avec une touche de science-fiction. Ce sont des thématiques que **Remedy**, les développeurs du jeu, ont déjà explorés auparavant (*Alan Wake, Quantum Break...*), auquel s'ajoute une couche bureaucratique.
 
 Cela passe notamment par tous ces **laboratoires d'analyses** sur la chance, les rites ou le plan astral, et tous ces rapports et autres **documents caviardés** sur les Objets Altérés et les interventions du Bureau sur le terrain, qui ne sont pas sans rappeler le site de la [fondation SCP](http://fondationscp.wikidot.com/ "Ne leur dites pas que c'est moi qui vous envoie, ou *ils* viendront me chercher !").
-Ce fut pour moi un plaisir de parcourir ces papiers pour découvrir les propriétés incongrues de ces babioles d'apparence ordinaire. Cela va du **ventilateur** qui étouffe les personnes à proximité au **miroir** permettant de se rendre dans une autre dimension. Si certains de ces objets n'existent qu'en écrit, d'autres font l'objet de **missions secondaires** et peuvent se cacher au bout d'un passage dérobé, alors ouvrez l'œil !
+Ce fut pour moi un plaisir de parcourir ces papiers pour découvrir les propriétés incongrues de ces babioles d'apparence ordinaire. Cela va du **ventilateur** qui étouffe les personnes à proximité au **miroir** permettant de se rendre dans une autre dimension. Si certains n'existent qu'en écrit, d'autres font l'objet de **missions secondaires** et peuvent se cacher au bout d'un passage dérobé, alors ouvrez l'œil !
 
 Ce jeu est aussi l'occasion pour le studio finlandais de faire des références à ses précédents titres, tout particulièrement à **Alan Wake** au vu du nombre de documents traitant des évènements de Bright Falls. Plus encore, avec sa seconde extension **AWE**, l'histoire de *Control* se mêle avec celle de l'ancien titre de Remedy et pose les bases d'un univers connecté, tout en annonçant le retour de l'écrivain maudit.
 
@@ -70,9 +70,9 @@ Ce jeu est aussi l'occasion pour le studio finlandais de faire des références 
 
 # Voyage dans un dédale bureaucratique
 
-Un autre point fort du titre est son terrain de jeu, l'**Ancienne Maison**. Malgré son architecture de béton brut et bien d'équerre, elle ne manque pas de lieux marquants. L'immense générateur au sous-sol, la hotline, la mine de pierre noire, l'hôtel et casino Oceanview, la lisière des horloges, les énormes portes coupe-feu... Les environnements savent se renouveler.
+Un autre point fort du titre est son terrain de jeu, l'**Ancienne Maison**. Malgré son architecture de béton brut et bien d'équerre (on parle alors de [Brutalisme](https://fr.wikipedia.org/wiki/Brutalisme "Le béton brut c'est chic !")), elle ne manque pas de lieux marquants. L'immense générateur au sous-sol, la hotline, la mine de pierre noire, l'hôtel et casino Oceanview, la lisière des horloges, les énormes portes coupe-feu... Les environnements savent se renouveler.
 
-Ne vous fiez pas à la froideur de ses murs en béton, il s'agit aussi d'un **Lieu de Pouvoir** en constante évolution. Les pièces bougent, de nouvelles zones apparaissent lorsque d'autres se volatilisent, et la corruption du Hiss **déstructure des départements entiers du BFC**. Arriver dans une zone contrôlée par l'ennemi et baignant dans la lumière rouge, puis de voir les murs reprendre leur place au moment d'en reprendre le contrôle, je trouve ça très esthétique. Le plus impressionnant est le passage dans le **labyrinthe du cendrier**, mais je vous en garde la surprise...
+Ne vous fiez pas à la froideur de ses murs en béton, il s'agit aussi d'un **Lieu de Pouvoir** en constante évolution. Les pièces bougent, de nouvelles zones apparaissent lorsque d'autres se volatilisent, et la corruption du Hiss **déstructure des départements entiers du BFC**. Arriver dans une zone sous le joug de l'ennemi et baignant dans la lumière rouge, puis de voir les murs revenir à leur place au moment d'en reprendre le contrôle, je trouve ça très esthétique. Le plus impressionnant est le passage dans le **labyrinthe du cendrier**, mais je vous en garde la surprise...
 
 Enfin, tous ces lieux s'organisent selon un formalisme de level design que j'adore : le **Metroïd-like**. Cela passe par des zones très connectées entre elles, avec des passages qui se révèlent au fur et à mesure que l'on progresse dans le jeu.
 J'apprécie particulièrement **m'approprier les lieux** à force d'y faire des allers-retours et découvrir des couloirs secrets menant à une zone optionnelle ou créant juste un raccourci. Ce n'est peut-être pas le meilleur représentant du genre, mais c'est suffisant pour inciter à reparcourir le dédale de l'Ancienne Maison. 
@@ -87,7 +87,7 @@ En attendant, vous pouvez utiliser vos **capacités**, données par le Conseil a
 
 En face de vous, l'opposition sera tout d'abord constituée de **la milice du Bureau** sous le contrôle du Hiss et à l'armement diversifié. Cela reste plutôt classique dans un TPS, mais ils seront très vite rejoints par **des ennemis aux capacités paranormales**, capables de voler, d'exploser ou de se rendre invisibles. Chacun a ses forces et ses faiblesses, il vous faudra rester sur vos gardes lors des assauts pour y offrir la réponse adéquate. Par exemple, les boucliers d'énergie sont plus sensibles aux pouvoirs qu'aux balles.
 
-Un autre conseil : le jeu vous demande de rester **mobile**, alors évitez de camper sur une position et de laisser les ennemis approcher, sachant que vous pouvez rapidement vous faire submerger. D'autant plus que votre **santé ne remonte pas toute seule**, elle est lâchée par les ennemis auxquels vous faites des dégâts, mais il vous faudra aller la ramasser, ce qui souvent signifie aller au-devant du danger. Tout cela donne des **affrontements dynamiques** mélangeant armes de tir et super pouvoirs.
+Un autre conseil : le jeu vous demande de rester **mobile**, alors évitez de camper sur une position et de laisser les ennemis approcher, sachant que vous pouvez rapidement vous faire submerger. D'autant plus que votre **santé ne remonte pas toute seule**, elle est lâchée par les ennemis auxquels vous faites des dégâts. Mais il vous faudra aller la ramasser, ce qui souvent signifie aller au-devant du danger. Tout cela donne des **affrontements dynamiques** mélangeant armes de tir et super pouvoirs.
 
 Enfin, votre arsenal pourra être **amélioré** par des modificateurs et des points de compétences. Cependant, à quelques exceptions près, je n'ai pas vu d'évolutions flagrantes apportées par ces améliorations, à part d'être constamment en train de faire du ménage dans **ce menu de mods avec trop peu de place**.
 
@@ -106,7 +106,7 @@ Un autre reproche à faire au jeu, c'est **l'interprétation des voix française
 
 # Conclusion
 
-Une histoire originale, des environnements impressionnants, un *gameplay* jouissif et des mécaniques inventives, on peut dire que ***Control* arrive à briller dans beaucoup de catégories**. Le studio *Remedy* a su exploiter son expérience acquise dans les TPS narratifs tout en essayant d'innover, aussi bien au niveau des mécaniques - avec les pouvoirs - que du level design beaucoup moins linéaire. Il est difficile de dire ce qui m'a le plus plu dans le jeu, mais si je dois retenir qu'une chose, alors ce seraient tous ces moments à **explorer** les grands espaces de l'Ancienne Maison, **flottant** vers une place inexplorée, qui procurent un grand sentiment de **liberté**.
+Une histoire originale, des environnements impressionnants, un *gameplay* jouissif et des mécaniques inventives, on peut dire que ***Control* arrive à briller dans beaucoup de catégories**. Le studio *Remedy* a su exploiter son expérience acquise dans les TPS narratifs tout en essayant d'innover, aussi bien au niveau des mécaniques - avec les pouvoirs - que du level design beaucoup moins linéaire. Il est difficile de dire ce qui m'a le plus plu dans le jeu, mais si je dois retenir qu'une chose, alors ce serait **l'exploration** des grands espaces de l'Ancienne Maison, **flottant** vers une place inexplorée, qui procure un grand sentiment de **liberté**.
 
 
 {{< info "Control" >}}
