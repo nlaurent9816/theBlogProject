@@ -58,7 +58,7 @@ Jesse croisera aussi du personnel ayant échappé au contrôle de l'ennemi. Elle
 
 # À la lisière d'autres mondes
 
-Entités abstraites, dimensions parallèles, évènements paranormaux... Comme vous avez pu le constater, la narration du jeu puise dans le **fantastique**, le **paranormal**, avec une touche de science-fiction. Ce sont des thématiques que **Remedy**, les développeurs du jeu, ont déjà explorés auparavant (*Alan Wake, Quantum Break...*), auquel s'ajoute une couche bureaucratique.
+Entités abstraites, dimensions parallèles, évènements paranormaux... Comme vous avez pu le constater, la narration du jeu puise dans le **fantastique**, le **paranormal**, avec une touche de science-fiction. Ce sont des thématiques que **Remedy**, les développeurs du jeu, ont déjà explorées auparavant (*Alan Wake, Quantum Break...*), auquel s'ajoute une couche bureaucratique.
 
 Cela passe notamment par tous ces **laboratoires d'analyses** sur la chance, les rites ou le plan astral, et tous ces rapports et autres **documents caviardés** sur les Objets Altérés et les interventions du Bureau sur le terrain, qui ne sont pas sans rappeler le site de la [fondation SCP](http://fondationscp.wikidot.com/ "Ne leur dites pas que c'est moi qui vous envoie, ou *ils* viendront me chercher !").
 Ce fut pour moi un plaisir de parcourir ces papiers pour découvrir les propriétés incongrues de ces babioles d'apparence ordinaire. Cela va du **ventilateur** qui étouffe les personnes à proximité au **miroir** permettant de se rendre dans une autre dimension. Si certains n'existent qu'en écrit, d'autres font l'objet de **missions secondaires** et peuvent se cacher au bout d'un passage dérobé, alors ouvrez l'œil !
@@ -106,7 +106,7 @@ Un autre reproche à faire au jeu, c'est **l'interprétation des voix française
 
 # Conclusion
 
-Une histoire originale, des environnements impressionnants, un *gameplay* jouissif et des mécaniques inventives, on peut dire que ***Control* arrive à briller dans beaucoup de catégories**. Le studio *Remedy* a su exploiter son expérience acquise dans les TPS narratifs tout en essayant d'innover, aussi bien au niveau des mécaniques - avec les pouvoirs - que du level design beaucoup moins linéaire. Il est difficile de dire ce qui m'a le plus plu dans le jeu, mais si je dois retenir qu'une chose, alors ce serait **l'exploration** des grands espaces de l'Ancienne Maison, **flottant** vers une place inexplorée, qui procure un grand sentiment de **liberté**.
+Une histoire originale, des environnements impressionnants, un *gameplay* jouissif et des mécaniques inventives, on peut dire que ***Control* arrive à briller dans beaucoup de catégories**. Le studio *Remedy* a su exploiter son expérience acquise dans les TPS narratifs tout en essayant d'innover, aussi bien au niveau des mécaniques - avec les pouvoirs - que du level design beaucoup moins linéaire. Il est difficile de dire ce qui m'a le plus plu dans le jeu, mais si je ne dois retenir qu'une chose, alors ce serait **l'exploration** des grands espaces de l'Ancienne Maison, **flottant** vers une place inexplorée, qui procure un grand sentiment de **liberté**.
 
 
 {{< info "Control" >}}
