@@ -1,0 +1,23 @@
+Subnautica Below Zero
+
+* Suite de Subnautica dans un environnement polaire
+* Histoire :
+    * Suite aux évènements du 1er jeu, la Société Alterra a commencé à installer des labos de recherches sur la planète 4546B.
+    * Samantha Ayou, une chercheuse, a disparu dans un accident suite à une négligence. Cette explication ne convient pas à sa sœur, Robin Ayou, qui décide de se rendre sur place clandestinement pour enquêter.
+    * Il faudra se débrouiller seule pour survivre dans l'environnement hostile de la planète, que ce soit dans l'eau ou sur la banquise.
+
+* Système de jeu :
+    * Comme pour le 1er, orienté sur la survie : gérer sa faim, sa soif, sa vie, son oxygène sous l'eau et sa température sur la banquise.
+    * Récupérer des ressources dans l'environnement pour fabriquer son équipement, sa base et des véhicules.
+    * L'Aquatracteur (Seatruck) : compromis entre un véhicule mobile et fonctionnel :
+        * La cabine de pilotage seule représente un véhicule petit, rapide et maniable.
+        * vous pouvez y accrocher des "wagons" (appelés modules) pour ajouter du stockage, un fabricateur, un lit... Mais chaque module agrandit le véhicule, le rend plus lent et moins maniable.
+    * Attention à la faune hostile ! De nouvelles créatures de classe Léviathan, les plus grandes de la planète, peuplent la zone de jeu, et plusieurs tenteront de se repaître de votre chair.
+    * En résumé, Below Zero reprend les mêmes mécaniques que son prédécesseur en y ajoutant quelques éléments.
+
+* Le secteur Zero :
+    * De nouveaux biomes, des décors impressionnants à découvrir. Encore plus de diversité, toujours impressionnant d'en découvrir un nouveau.
+    * Le tout accompagné par les musiques de Ben Prunty (connu pour la musique de FTL), un musicien dont j'aime beaucoup les compositions.
+    * La plus grosse nouveauté, ce sont ces biomes banquises, qui offre de gros changements de gameplay, car hors de l'eau. La  gestion de l'oxygène est remplacée par celle de la température, et l'environnement recèle son lot de surprises et de dangers.
+
+* Comme pour le premier jeu, l'intérêt est de découvrir la partie immergée de l'iceberg, on en parlera dans une partie à part.
