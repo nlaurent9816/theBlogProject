@@ -1,0 +1,41 @@
+* Les épisodes de la série Ace Attorney se déroulant à la fin du 19ème siècle.
+* Compilation de deux jeux sortis en 2015 et 2017 sur 3DS, ressortis  sur les plateformes actuelles et en anglais (pas de traduction française)
+* Pas de "Phoenix Wright" et sa clique cette fois-ci, dites bonjour à son ancêtre Ryunosuke Nahurodo 
+  * Le lien familial est plus visible avec le nom japonais de Phoenix : ????? (à compléter)
+
+* Gameplay : Pas de pouvoirs spirituels, ni de gadgets pour lire la cœur des personnes. 
+  * On ne garde que la base : les phases d'enquêtes et les procès.
+    * Enquête : Naviguer de lieux en lieux, inspecter le décor à la recherche d'indices, discuter avec des personnes et leur présenter des preuves pour obtenir plus d'informations (ou juste présenter son brassard d'avocat à tout le monde pour voir leurs réactions exaspérées)
+    * Procès : Procéder au contre-interrogatoire des témoins pour obtenir plus de détails sur leur déposition, et présenter des preuves en contradiction avec leurs dires. Il faudra aussi répondre aux accusation du procureur et aux questions du Juge. Chaque erreur vous coûtera en crédibilité, représenté par une barre de vie, et lorsque cette barre tombe à zéro, le procès se termine sur un verdict "coupable", et il faudra recommencer du dernier point de passage ou d'une sauvegarde.
+  * Mais cela ne veut pas dire que le diptyque ne dispose pas de nouveautés :
+    * Contre-interrogatoire de plusieurs témoins en même temps (une mécanique venant du cross-over avec Professeur Layton) qui permet de prendre sur le vif lors des déclarations d'un témoin les réactions de ses voisins de barre.
+    * Danse de la déduction : écoutez et corrigez les déduction du célèbre Herlock Sholmes (la version "libre de droits" de Sherlock Holmes) en orientant le fil de sa pensée vers les bons indices.
+      * Probablement l'une des meilleurs phases du jeu, entre la mise en scène, l'absurdité des conclusions de Sholmes et la réactions des autres personnages.
+    * Jury : Dans l'empire britannique, les décisions pénales sont prises avec le concours d'un conseil de 6 jurés sélectionnés aléatoirement dans la population. En cas de consensus sur le verdict "coupable", il vous restera une dernière chance de changer leur avis en les interrogeant sur les motivations de ce verdict, et en les confrontant les un aux autres pour révéler des contradictions.
+
+* Histoire : Suivez les aventures du jeune étudiant japonais Ryunosuke Nahurodo, comment d'accusé de meurtre à la coure suprême du Japon il deviendra avocat de la défense à Londres, comment il croisa la route du "grand" détective Herlock Sholmes à de multiples reprises pour collaborer sur certaines affaires, comment il sera rejoint par l'assistante juridique Susato Mikotoba, et comment il mettra en lumière les complots les plus sombres de la capitale britannique.
+  * Comme d'habitude dans la série, la plus grande qualité du titre est son écriture copieuse, drôle, riche en retournements de situation. Les dialogues sont agréablement écrits et accompagnés de personnages très expressifs dans leur apparence et leurs animations. Il arrive souvent de deviner quel personnage parle avant de le voir.
+    * Par contre, il ne faut pas avoir peur de lire, car ça reste l'activité principale du jeu.
+    * Certains habitués de la série pourront plus facilement voir certaines ficelles de scénario déjà utilisées dans les opus précédents, mais pourront se faire surprendre car le jeu s'muse à briser des règles mises en places par ses prédécesseurs.
+  * L'histoire de la série arrive à se réinventer dans le cadre du 19ème siècle avec ses propres personnages.
+    * La personnalité de Ryunosuke diffère de celle de son déscendant. Il est souvent en proie au doute. Cependant, il y a toujours ce désir de poursuivre la vérité, même si cela peut le mettre en difficulté.
+    * Notre héros sera accompagné tout d'abord de son meilleur ami : Kazuma Asogi, étudiant en droit et déjà avocat dans un système judiciaire encore balbutiant dans le Japon de l'ère Meji. Il a regard fier, le katana à sa ceinture et son bandeau flottant inexplicablement au vent. Alors que Ryunosuke est accusé de meurtre, c'est à cet ami qu'il confira sa défense, mais le procès révélera son lot de retournement de situations.
+    * Par la suite on rencontrera Susato Mikotoba, assistante juridique de bon conseil et adepte des techniques de projections au sol. Elle est toujours là pour donner le change interrogations de Ryunosuke pendant l'enquête.
+    * Notre héros croisera aussi dans le rues d'un Londres victorien le grand détective Herlock Sholmes, parodie du personnage de Conan Doyle. Tête en l'air, atypique, égocentrique, souvent à côté de la plaque en terme de déductions, le jeu minimise ses qualités tout en grossissant ses défauts, tout en faisant de lui un personnage attachant.
+      * On retrouvera aussi d'autres personnages inspirés de la même œuvre, directement (l'inspecteur Gregson) ou non (Iris Wilson, la fille du partenaire de Sholmes et auteure de sa biographie, ou Gina Lestrade, orpheline et pickpocket de l'East End, inspirée de l'inspecteur Lestrade dans l'original), voire juste des clins d'œils : Enoch Drebber, dans le jeu ingénieur aux mouvements robotiques, dans le livre la victime de la toute première enquête d'Holmes et Watson, les deux personnages ne partagent que le nom.
+      * Il y a aussi des références à certaines des aventures du détective consultant : le deuxième chapitre est une référence à "la bande moucheté", "la ligue des rouquins" et "un scandale en Bohème" sont référencés à plusieurs reprises, et on retrouve çà et là des clins d'œils que seuls les plus connaisseurs pourront détecter.
+      * En tout cas, ça m'a donné envie de découvrir l'œuvre originale.
+    * Parmi les personnages notables, on pourra aussi croiser Soseki Natsume pendant ses études en Angleterre, avant qu'il devienne un écrivain célèbre au Japon (au point d'avoir sa tête sur des billets de yens), et qui a vraiment existé.
+    * Enfin, vous ferez face à Barok Von Zeiks, procureur à l'apparence vampirique et amateur de vin (bien qu'il en casse beaucoup de verres), vouant une aversion envers les nippons et surnommé "le Faucheur de l'Old Bailey".
+
+Ce que j'ai aimé :
+  * La qualité d'écriture aux nombreux retournements de situations.
+  * Les personnages, surtout celui d'Herlock Sholmes. Ce n'est pas la représentation la plus fidèle au matériau original, mais il reste un personnage surprenant et drôle.
+  * Les "danses de la déduction", toujours plus surprenantes et inventives.
+  * Redécouvrir la formule de la série Ace Attorney dans un tout nouveau cadre.
+    * Les références aux précédents jeux sont peu nombreuses et le plus souvent de l'ordre du clin d'œil.
+  * La qualité des animations et des designs, certes peu nombreux, mais très soignés et expressifs.
+
+Ce que j'ai moins aimé :
+  * Le Jury devient de moins en moins impliqué dans le déroulé du procès, surtout dans le deuxième jeu où leur rôle se concentre seulement sur les séquences d'examen des jurés.
+  * Le jeu ne dispose pas d'une localisation en français, ce qui est fort dommage, surtout à la suite de la ressortie de la trilogie sur les plateformes récentes, et qui disposait de textes en français.
