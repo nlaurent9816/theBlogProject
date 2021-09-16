@@ -1,7 +1,7 @@
 * Les épisodes de la série Ace Attorney se déroulant à la fin du 19ème siècle.
 * Compilation de deux jeux sortis en 2015 et 2017 sur 3DS, ressortis  sur les plateformes actuelles et en anglais (pas de traduction française)
 * Pas de "Phoenix Wright" et sa clique cette fois-ci, dites bonjour à son ancêtre Ryunosuke Nahurodo 
-  * Le lien familial est plus visible avec le nom japonais de Phoenix : ????? (à compléter)
+  * Le lien familial est plus visible avec le nom japonais de Phoenix : Ryūichi Naruhodō (à compléter)
 
 * Gameplay : Pas de pouvoirs spirituels, ni de gadgets pour lire la cœur des personnes. 
   * On ne garde que la base : les phases d'enquêtes et les procès.
