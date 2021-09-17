@@ -1,23 +1,43 @@
 Subnautica Below Zero
 
 * Suite de Subnautica dans un environnement polaire
+* A bénéficié d'un accès anticipé, comme le précédent titre, et s'est basé sur les retours des joueurs pour orienter/améliorer/corriger le jeu.
+* La métaphore de l'iceberg décrit bien ce jeu (la plus grande partie de l'iceberg est immergée, invisible au premier coup d'œil), ce qui est amusant pour un jeu se déroulant dans un océan polaire.
+
 * Histoire :
     * Suite aux évènements du 1er jeu, la Société Alterra a commencé à installer des labos de recherches sur la planète 4546B.
-    * Samantha Ayou, une chercheuse, a disparu dans un accident suite à une négligence. Cette explication ne convient pas à sa sœur, Robin Ayou, qui décide de se rendre sur place clandestinement pour enquêter.
+    * Samantha Ayou, une chercheuse, a disparu dans un accident suite à une "négligence". Cette explication ne convient pas à sa sœur, Robin Ayou, qui décide de se rendre sur place clandestinement pour enquêter.
     * Il faudra se débrouiller seule pour survivre dans l'environnement hostile de la planète, que ce soit dans l'eau ou sur la banquise.
+      * Seule ? Pas vraiment, cette fois-ci on aura l'occasion de croiser d'autres personnages pendant notre aventure aquatique. Cependant, la narration passera en majorité par des documents textuels et audios, comme le précédent jeu. 
 
 * Système de jeu :
     * Comme pour le 1er, orienté sur la survie : gérer sa faim, sa soif, sa vie, son oxygène sous l'eau et sa température sur la banquise.
     * Récupérer des ressources dans l'environnement pour fabriquer son équipement, sa base et des véhicules.
+        * Un peu compliqué au début, on débloquera petit à petit des équipements pour faciliter la collecte. De même, la navigation devient plus facile à partir du moment où on trouve les meilleurs aliments pour satisfaire sa faim et sa soif (il existe une recette de salade très efficace pour ça, je vous laisse la découvrir).
+    * On dispose de plus de  choix dans la construction de la base. La plupart sont purement cosmétiques (jukebox, plafond en verre, ...) mais on appréciera l'ajout de grandes salles modulables avec des parois.
     * L'Aquatracteur (Seatruck) : compromis entre un véhicule mobile et fonctionnel :
         * La cabine de pilotage seule représente un véhicule petit, rapide et maniable.
         * vous pouvez y accrocher des "wagons" (appelés modules) pour ajouter du stockage, un fabricateur, un lit... Mais chaque module agrandit le véhicule, le rend plus lent et moins maniable.
     * Attention à la faune hostile ! De nouvelles créatures de classe Léviathan, les plus grandes de la planète, peuplent la zone de jeu, et plusieurs tenteront de se repaître de votre chair.
-    * En résumé, Below Zero reprend les mêmes mécaniques que son prédécesseur en y ajoutant quelques éléments.
+    * En résumé, Below Zero reprend les mêmes mécaniques que son prédécesseur en y ajoutant quelques éléments. Cela plaira à ceux qui voulaient continuer l'expérience du premier jeu.
 
 * Le secteur Zero :
-    * De nouveaux biomes, des décors impressionnants à découvrir. Encore plus de diversité, toujours impressionnant d'en découvrir un nouveau.
+    * De nouveaux biomes, des décors impressionnants à découvrir. Encore plus de diversité, toujours émerveillant d'en découvrir un nouveau. Des forêts de coraux, des nénuphars géants, des cavernes de cristaux...
     * Le tout accompagné par les musiques de Ben Prunty (connu pour la musique de FTL), un musicien dont j'aime beaucoup les compositions.
     * La plus grosse nouveauté, ce sont ces biomes banquises, qui offre de gros changements de gameplay, car hors de l'eau. La  gestion de l'oxygène est remplacée par celle de la température, et l'environnement recèle son lot de surprises et de dangers.
+        * Malheureusement, c'est aussi la partie la moins intéressante : décors moins riches (et souvent plongés dans le blizzard), mobilité réduite (même les déplacements en Snowfox, une sorte de moto des neiges, semblent mous)
+        * La métaphore de l'iceberg se vérifie encore : le plus intéressant est sous l'eau.
+    * Comment le jeu (et son prédécesseur) limitent la zone de jeu dans l'eau : pas de "murs invisibles", mais un océan très profond, sombre, et peuplé des pires créatures du jeu apparaissant en boucle, de quoi vous décourager à continuer.
 
-* Comme pour le premier jeu, l'intérêt est de découvrir la partie immergée de l'iceberg, on en parlera dans une partie à part.
+* Avis :
+    * Jeu qui reprend la formule de son prédécesseur avec quelques ajouts
+    * Une DA merveilleuse, toujours un plaisir de se balader dans ces environnements extraordinaires et variés, accompagnés d'une super musique. J'ai adoré explorer.
+        * L'exploration à la surface peu paraître moins maîtrisée, mais j'ai plutôt l'impression qu'elle pâtit d'être comparée à l'exploration sous-marine, plus riche sur beaucoup d'aspects et plus originale sur le marché. En comparaison, la découverte de la surface de la banquise est assez quelconque, pas mauvaise, mais pas incroyable non plus.
+    * Je ne trouve pas la collecte de ressources redondante, car le jeu nous donne petit à petit des outils la facilitant, sans pour autant la rendre complètement triviale.
+    * Malgré l'accès anticipé, on retrouve des bugs dans la version "1.0" du jeu : des objets qui disparaissent à travers le décors, quelques oublis de traduction, des collisions étranges, etc... Comme d'habitude, je vous souhaite qu'ils soient corrigés dans de futurs patchs.
+    *Partie "Spoil" :
+        * J'ai bien aimé les interactions avec les autres personnages présents :
+            * On peut assez tôt faire la rencontre d'Al-An, une conscience d'Architecte. Les Architectes sont une race extraterrestre disparue, dont Al-An semble être l'un des derniers représentants. Cette conscience va trouver refuge dans le cerveau de Robin le temps qu'elle lui reconstruire un nouveau corps. Pendant ce temps, Al-An assistera à notre aventure, commentant, discutant et débattant avec notre héroïne sur ses actions, l'environnement, les humains et les Architectes. J'ai bien aimé ces moments de discussions, cela permet d'en apprendre plus sur le monde, les personnages, en plus de donner du relief à certains moments de l'histoire ou à certaines découvertes.
+            * On fera aussi la connaissance de Marguerite, une aventurière peu amicale au début, mais qui plus tard nous révélera avoir aidé Samantha, la grande sœur de Robin, dans la lutte contre un dangereux projet d'Alterra.
+        * Le jeu a deux intrigues, mais a du mal à les mélanger : Les circonstances de la mort de Samantha, liées au développement d'une arme biologique, et la construction d'un corps pour Al-An.
+            * Si la première est à l'origine de la venue de Robin sur 4546B, seule la résolution de la deuxième est nécessaire pour terminer le jeu. On n'a jamais l'impression que les deux sont vraiment liés (même s'il existe quelques faibles connexions dans l'histoire), mais plutôt que la première intrigue finit par être reléguée au second plan par rapport à la deuxième.
