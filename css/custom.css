@@ -4,10 +4,15 @@
 
 .post-content {
     width: 100%;
+    color: #333;
 }
 
 .post-content p {
     text-align: justify;
+}
+
+.post-content blockquote {
+    color: #555;
 }
 
 @media screen and (max-width: 30em) {
