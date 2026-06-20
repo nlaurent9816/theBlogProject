@@ -16,12 +16,11 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-    - name: install-git
+    - name: setup-git
       run: |
-        apt update
-        apt install git -y
         git config --global user.email "runnergithub@mail.net"
         git config --global user.name "Runner GitHub"
+        git config --global --add safe.directory /__w/theBlogProject/theBlogProject
 
 
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
