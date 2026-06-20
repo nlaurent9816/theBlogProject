@@ -6,22 +6,87 @@
     
     <title>Subnautica Below Zero | The Blog Project</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.88.0" />
+    <meta name="description" content="La partie immergée de l&#39;iceberg">
+    <meta name="generator" content="Hugo 0.163.3">
     
     
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     
+      <meta name="robots" content="index, follow">
+    
+    
+
+    <link rel="stylesheet" href="/theBlogProject/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous"><link rel="stylesheet" href="/theBlogProject/css/custom.css"><link rel="stylesheet" href="/theBlogProject/css/accordion.css">
+    <script>
+  (function () {
+    "use strict";
 
     
     
-      <link href="/theBlogProject/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
-    
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
-    
-      <link rel="stylesheet" href="/theBlogProject/css/custom.css">
-    
-      <link rel="stylesheet" href="/theBlogProject/css/accordion.css">
-    
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -29,40 +94,60 @@
     
 
     
+
     
-    <meta property="og:title" content="Subnautica Below Zero" />
-<meta property="og:description" content="La partie immergée de l&#39;iceberg" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://nlaurent9816.github.io/theBlogProject/posts/2021/subnautica-below-zero/" /><meta property="og:image" content="https://nlaurent9816.github.io/theBlogProject/posts/2021/subnautica-below-zero/below-zero.jpg" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-10-22T19:30:00+02:00" />
-<meta property="article:modified_time" content="2021-10-22T19:30:00+02:00" />
+      <link rel="canonical" href="https://nlaurent.mooo.com/theBlogProject/posts/2021/subnautica-below-zero/">
+    
 
-<meta itemprop="name" content="Subnautica Below Zero">
-<meta itemprop="description" content="La partie immergée de l&#39;iceberg"><meta itemprop="datePublished" content="2021-10-22T19:30:00+02:00" />
-<meta itemprop="dateModified" content="2021-10-22T19:30:00+02:00" />
-<meta itemprop="wordCount" content="2280"><meta itemprop="image" content="https://nlaurent9816.github.io/theBlogProject/posts/2021/subnautica-below-zero/below-zero.jpg">
-<meta itemprop="keywords" content="jeu vidéo," /><meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://nlaurent9816.github.io/theBlogProject/posts/2021/subnautica-below-zero/below-zero.jpg"/>
+    
+    
+    <meta property="og:url" content="https://nlaurent.mooo.com/theBlogProject/posts/2021/subnautica-below-zero/">
+	<meta property="og:site_name" content="The Blog Project">
+	<meta property="og:title" content="Subnautica Below Zero">
+	<meta property="og:description" content="La partie immergée de l&#39;iceberg">
+	<meta property="og:locale" content="fr_fr">
+	<meta property="og:type" content="article">
+		<meta property="article:section" content="posts">
+		<meta property="article:published_time" content="2021-10-22T19:30:00+02:00">
+		<meta property="article:modified_time" content="2021-10-22T19:30:00+02:00">
+		<meta property="article:tag" content="Jeu Vidéo">
+		<meta property="og:image" content="https://nlaurent.mooo.com/theBlogProject/posts/2021/subnautica-below-zero/below-zero.jpg">
 
-<meta name="twitter:title" content="Subnautica Below Zero"/>
-<meta name="twitter:description" content="La partie immergée de l&#39;iceberg"/>
+	<meta itemprop="name" content="Subnautica Below Zero">
+	<meta itemprop="description" content="La partie immergée de l&#39;iceberg">
+	<meta itemprop="datePublished" content="2021-10-22T19:30:00+02:00">
+	<meta itemprop="dateModified" content="2021-10-22T19:30:00+02:00">
+	<meta itemprop="wordCount" content="2280">
+	<meta itemprop="image" content="https://nlaurent.mooo.com/theBlogProject/posts/2021/subnautica-below-zero/below-zero.jpg">
+	<meta itemprop="keywords" content="Jeu Vidéo">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="https://nlaurent.mooo.com/theBlogProject/posts/2021/subnautica-below-zero/below-zero.jpg">
+	<meta name="twitter:title" content="Subnautica Below Zero">
+	<meta name="twitter:description" content="La partie immergée de l&#39;iceberg">
 
+      
+      
+    
 	<script src="/theBlogProject/js/accordion.js"></script>
-  </head>
-
-  <body class="ma0 serif DEV">
-
-    
+  </head><body class="ma0 serif production is-page is-page page-subnautica-below-zero">
    
   
 
+
   
   
-  <header class="cover bg-top" style="background-image: url('https://nlaurent9816.github.io/theBlogProject/posts/2021/subnautica-below-zero/below-zero.jpg');">
-    <div class="pb3-m pb6-l bg-black-60">
+  
+  
+  
+  
+  
+  
+  
+  <header class="cover bg-top bg-fixed" style="background-image: url('https://nlaurent.mooo.com/theBlogProject/posts/2021/subnautica-below-zero/below-zero.jpg');">
+    <div class="bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l justify-between items-center center">
-    <a href="/theBlogProject/" class="f3 fw2 hover-white no-underline white-90 dib">
+  <div class="flex-l center items-center justify-between">
+    <a href="/theBlogProject/" class="f3 fw2 hover-white white-90 dib no-underline">
       
         The Blog Project
       
@@ -74,34 +159,20 @@
         <ul class="pl0 mr3">
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/theBlogProject/tags/jeu-vid%C3%A9o/" title="Articles &#34;jeu vidéo&#34; page">
+            <a class="hover-white white-90 no-underline" href="/theBlogProject/tags/jeu-vid%C3%A9o/" title="Articles &#34;jeu vidéo&#34; page">
               Articles &#34;jeu vidéo&#34;
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/theBlogProject/apropos" title="À propos page">
+            <a class="hover-white white-90 no-underline" href="/theBlogProject/apropos" title="À propos page">
               À propos
             </a>
           </li>
           
         </ul>
       
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      <div class="ananke-socials"></div>
 
     </div>
   </div>
@@ -109,11 +180,11 @@
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Subnautica Below Zero</h1>
+          <div class="f2 f1-l fw2 white-90 mb0 lh-title">Subnautica Below Zero</div>
           
-            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+            <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
               La partie immergée de l&#39;iceberg
-            </h2>
+            </div>
           
         
       </div>
@@ -121,55 +192,24 @@
   </header>
 
 
-
-    <main class="pb7" role="main">
-      
+<main class="pb7" role="main">
   
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked">
-          
-        POSTS
-      </aside>
-      
 
-
-
-
-  <div id="sharing" class="mt3">
-
-    
-    <a href="https://www.facebook.com/sharer.php?u=https://nlaurent9816.github.io/theBlogProject/posts/2021/subnautica-below-zero/" class="facebook no-underline" aria-label="share on Facebook">
-      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
-
-    </a>
-
-    
-    
-    <a href="https://twitter.com/share?url=https://nlaurent9816.github.io/theBlogProject/posts/2021/subnautica-below-zero/&amp;text=Subnautica%20Below%20Zero" class="twitter no-underline" aria-label="share on Twitter">
-      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
-
-    </a>
-
-    
-    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://nlaurent9816.github.io/theBlogProject/posts/2021/subnautica-below-zero/&amp;title=Subnautica%20Below%20Zero" class="linkedin no-underline" aria-label="share on LinkedIn">
-      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
-</svg>
-
-    </a>
-  </div>
-
-
-      <h1 class="f1 athelas mt3 mb1">Subnautica Below Zero</h1>
+  <article class="page-subnautica-below-zero flex-l mw7 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked ttu">
+    <a class="link dim" href="https://nlaurent.mooo.com/theBlogProject/posts/">Posts</a>
+  </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">Subnautica Below Zero</h1>
       
       
-      <time class="f6 mv4 dib tracked" datetime="2021-10-22T19:30:00+02:00">October 22, 2021</time>
+      
+      <time class="f6 mv4 dib tracked" datetime="2021-10-22T19:30:00+02:00">22 octobre 2021</time>
+      
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy sans-serif post-content f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><blockquote>
+    <div class="nested-copy-line-height lh-copy sans-serif post-content f4 nested-links mid-gray pr4-l w-100-l"><blockquote>
 <h1 id="alterra-sinstalle-sur-une-nouvelle-planète">Alterra s’installe sur une nouvelle planète !</h1>
 <p>L’information est tombée plus tôt dans la matinée : Alterra confirme l’implantation d’une équipe de recherche sur la planète 4546B. Pour rappel, un rapport publié il y a quelques mois par cette même société avait fait grand bruit : la découverte d&rsquo;une nouvelle planète habitable, recouverte à 99 % d’eau, avec un écosystème principalement sous-marin, des traces du passage d’une ancienne civilisation, et surtout un sol très riche en ressources !</p>
 <p>« Les formes de vie présentes dans les eaux de 4546B présentent des caractéristiques encore jamais vues, déclare le porte-parole d’Alterra. Nous souhaitons envoyer sans plus attendre des chercheurs étudier la faune et la flore de cette planète, car nous sommes convaincus que les connaissances qui en découleront feront progresser l’humanité. » On a hâte d’en apprendre plus sur le type de recherches menées !</p>
@@ -200,7 +240,7 @@
 <h1 id="que-penser-de-cette-seconde-plongée">Que penser de cette seconde plongée ?</h1>
 <p>Lorsque je repense à ce jeu, la première chose qui me revient en tête est sa <strong>direction artistique merveilleuse</strong>. On a beau se retrouver en milieu polaire, quelle créativité dans les environnements ! <strong>Quel spectacle de bioluminescences !</strong> Et quel plaisir à découvrir ! On se croirait parfois dans un rêve – enfin, s’il n’y avait pas de monstres pour tenter de nous croquer.</p>
 <p>Pour ce qui est du <strong>gameplay</strong>, orienté survie et collecte de ressources, je l’ai <strong>rarement trouvé répétitif</strong>. Le jeu nous donne petit à petit des outils pour nous <strong>simplifier la tâche</strong>, sans pour autant la rendre complètement triviale. Et puis la découverte de nouveaux biomes est un excellent moteur pour nous inciter à chercher toujours plus loin.</p>
-<p>J’ai toutefois quelques réserves à apporter sur <strong>l’exploration en surface</strong>. Elle peut paraître moins maîtrisée, mais j&rsquo;ai plutôt l&rsquo;impression qu'<strong>elle pâtit d&rsquo;être comparée à l&rsquo;exploration sous-marine</strong>, plus riche sur beaucoup d&rsquo;aspects et plus originale. L’océan est un festival de couleurs, alors que la surface est principalement blanche et souvent plongée dans la tempête de neige. Même la conduite du SnowFox paraît molle par rapport à celle du Seaglide, un petit dispositif de déplacement sous-marin. La découverte de la surface est au final <strong>assez quelconque</strong>, pas mauvaise, mais pas incroyable non plus.</p>
+<p>J’ai toutefois quelques réserves à apporter sur <strong>l’exploration en surface</strong>. Elle peut paraître moins maîtrisée, mais j&rsquo;ai plutôt l&rsquo;impression qu&rsquo;<strong>elle pâtit d&rsquo;être comparée à l&rsquo;exploration sous-marine</strong>, plus riche sur beaucoup d&rsquo;aspects et plus originale. L’océan est un festival de couleurs, alors que la surface est principalement blanche et souvent plongée dans la tempête de neige. Même la conduite du SnowFox paraît molle par rapport à celle du Seaglide, un petit dispositif de déplacement sous-marin. La découverte de la surface est au final <strong>assez quelconque</strong>, pas mauvaise, mais pas incroyable non plus.</p>
 <p>Pour l’aspect technique, je regrette que, malgré un <strong>accès anticipé</strong> de plus de deux ans, on trouve encore <strong>des bugs dans la version « 1.0 »</strong> du jeu : des objets qui disparaissent à travers le décor, quelques oublis de traduction, des collisions étranges, et cetera. Comme d&rsquo;habitude, je vous souhaite qu&rsquo;ils soient corrigés dans de futurs patchs.</p>
 <p><img src="cavernes_vertes.png" alt="cavernes vertes" title="Malgré les eaux glacées du secteur Zéro, on arrive à trouver des cavernes couvertes de végétaux."></p>
 <p>Enfin, j’aimerais aussi vous donner mon avis sur certains <strong>éléments scénaristiques</strong>. Mais comme l’intérêt du jeu réside en partie dans son histoire, je vais laisser ceux qui veulent se garder le plaisir de la découverte sauter directement à la conclusion. Si vous voulez un résumé de ce que je pense de l’histoire, disons qu’elle est globalement bien, mais que le jeu a du mal à faire cohabiter deux intrigues parallèles.</p>
@@ -216,7 +256,7 @@
     <div class="near-black bn bg-black-10 accordion-panel" style="overflow: hidden">
         <div class="ma3" style="font-size: 0.9em">
             <p>Un ajout par rapport au précédent opus que j’évoquais plus haut, c’est qu’on aura le droit à des <strong>interactions</strong> avec deux autres personnages.</p>
-<p>On peut assez tôt faire la rencontre d'<strong>Al-An</strong>, l&rsquo;un des derniers représentants des <strong>Architectes</strong>, une race extraterrestre disparue ayant laissé des traces de leur passage dans tout l’univers. Mais Al-An a un problème : <strong>il n’a plus de corps</strong>, et le sanctuaire qui sert à conserver sa conscience est sur le point de tomber en panne d’énergie. Il va donc trouver refuge dans le cerveau de Robin le temps qu&rsquo;elle lui reconstruise un nouveau corps. À partir de ce moment, <strong>Al-An assistera à notre aventure</strong>, commentant, discutant et débattant avec notre héroïne sur ses actions, l&rsquo;environnement, les humains et les Architectes. J&rsquo;ai bien aimé ces moments de discussions, cela permet d&rsquo;en apprendre plus sur le monde, les personnages, en plus de donner du relief à certains moments de l&rsquo;histoire ou à certaines découvertes.</p>
+<p>On peut assez tôt faire la rencontre d&rsquo;<strong>Al-An</strong>, l&rsquo;un des derniers représentants des <strong>Architectes</strong>, une race extraterrestre disparue ayant laissé des traces de leur passage dans tout l’univers. Mais Al-An a un problème : <strong>il n’a plus de corps</strong>, et le sanctuaire qui sert à conserver sa conscience est sur le point de tomber en panne d’énergie. Il va donc trouver refuge dans le cerveau de Robin le temps qu&rsquo;elle lui reconstruise un nouveau corps. À partir de ce moment, <strong>Al-An assistera à notre aventure</strong>, commentant, discutant et débattant avec notre héroïne sur ses actions, l&rsquo;environnement, les humains et les Architectes. J&rsquo;ai bien aimé ces moments de discussions, cela permet d&rsquo;en apprendre plus sur le monde, les personnages, en plus de donner du relief à certains moments de l&rsquo;histoire ou à certaines découvertes.</p>
 <p>On fera aussi la connaissance de <strong>Marguerite</strong>, une aventurière haïssant Alterra. Peu amicale au début, elle nous menacera en pensant qu’on travaille pour eux. Mais après lui avoir prouvé qu’on avait aucun intérêt dans la société interplanétaire, elle nous révélera avoir aidé Samantha, la grande sœur de Robin, dans la lutte contre un dangereux projet d&rsquo;Alterra : le développement d&rsquo;une arme biologique.</p>
 <p>Comme vous le constatez, chaque personnage a son histoire : en réalité, <strong>on suit deux intrigues en parallèle</strong>. D’un côté, on cherche à connaître les circonstances de la mort de Samantha, liées au développement de l&rsquo;arme biologique, et de l’autre, il nous faut retrouver des plans et des ressources pour fabriquer un nouveau corps à Al-An. Si la première est à l&rsquo;origine de la venue de Robin sur 4546B, seule la résolution de la deuxième semble nécessaire pour terminer le jeu. <strong>On n&rsquo;a jamais l&rsquo;impression que les deux histoires sont vraiment liées</strong> (à part quelques faibles connexions), mais plutôt que la première intrigue finit par être reléguée au second plan par rapport à la deuxième.</p>
 
@@ -260,82 +300,51 @@
 <p><img src="manchounets.png" alt="manchouaille et manchounets" title="Un manchouaille et ses manchounets."></p>
 <ul class="pa0">
   
-   <li class="list">
-     <a href="/theBlogProject/tags/jeu-vid%C3%A9o" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">jeu vidéo</a>
+</ul><ul class="pa0">
+  
+   <li class="list di">
+     <a href="/theBlogProject/tags/jeu-vid%C3%A9o/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Jeu Vidéo</a>
    </li>
   
 </ul>
-<div class="mt6 instapaper_ignoref">
+
       
-      
-      </div>
-    </div>
-
-    <aside class="w-30-l mt6-l">
-
-
-
-
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-    <p class="f5 b mb3">Lié</p>
-    <ul class="pa0 list">
-	   
-	     <li  class="mb2">
-          <a href="/theBlogProject/posts/2021/control/">Control</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/theBlogProject/posts/2020/critiques-pressees-1/">Critiques pressées</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/theBlogProject/posts/2020/spiritfarer/">Spiritfarer</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/theBlogProject/posts/2020/danganronpa/">Danganronpa : Trigger Happy Havoc</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/theBlogProject/posts/2020/outer_wilds/">Outer Wilds</a>
-        </li>
-	    
-    </ul>
-</div>
-
-</aside>
-
-  </article>
-
-    </main>
-    <footer class="bg-navy bottom-0 w-100 pa3" role="contentinfo">
+    </div></article>
+</main><footer class="bg-navy bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://nlaurent9816.github.io/theBlogProject/" >
-    &copy;  The Blog Project 2021 
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://nlaurent.mooo.com/theBlogProject/" >
+    &copy;  The Blog Project 2026 
   </a>
-    <div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <div><div class="ananke-socials"></div>
 </div>
   </div>
 </footer>
-
-    
-
-  <script src="/theBlogProject/dist/js/app.3fc0f988d21662902933.js"></script>
-
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

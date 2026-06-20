@@ -6,22 +6,89 @@
     
     <title>À propos | The Blog Project</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.88.0" />
+    <meta name="description" content="Salut toi qui es venu t&rsquo;égarer sur cette page &ldquo;à propos&rdquo; !
+Depuis quelques mois je me suis lancé dans l&rsquo;écriture d&rsquo;un blog pour y mettre mon avis sur les jeux auxquels je joue, histoire de garder une trace de mon expérience. Et quitte à avoir une expérience, autant la partager ! En tout cas, j&rsquo;espère que tu apprécies ce que tu trouves ici !
+Je t&rsquo;invite aussi à consulter le premier post.">
+    <meta name="generator" content="Hugo 0.163.3">
     
     
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     
+      <meta name="robots" content="index, follow">
+    
+    
+
+    <link rel="stylesheet" href="/theBlogProject/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous"><link rel="stylesheet" href="/theBlogProject/css/custom.css"><link rel="stylesheet" href="/theBlogProject/css/accordion.css">
+    <script>
+  (function () {
+    "use strict";
 
     
     
-      <link href="/theBlogProject/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
-    
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
-    
-      <link rel="stylesheet" href="/theBlogProject/css/custom.css">
-    
-      <link rel="stylesheet" href="/theBlogProject/css/accordion.css">
-    
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -29,40 +96,47 @@
     
 
     
+
     
-    <meta property="og:title" content="À propos" />
-<meta property="og:description" content="Salut toi qui es venu t&rsquo;égarer sur cette page &ldquo;à propos&rdquo; !
-Depuis quelques mois je me suis lancé dans l&rsquo;écriture d&rsquo;un blog pour y mettre mon avis sur les jeux auxquels je joue, histoire de garder une trace de mon expérience. Et quitte à avoir une expérience, autant la partager ! En tout cas, j&rsquo;espère que tu apprécies ce que tu trouves ici !
-Je t&rsquo;invite aussi à consulter le premier post." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://nlaurent9816.github.io/theBlogProject/apropos/" /><meta property="article:section" content="" />
+      <link rel="canonical" href="https://nlaurent.mooo.com/theBlogProject/apropos/">
+    
 
+    
+    
+    <meta property="og:url" content="https://nlaurent.mooo.com/theBlogProject/apropos/">
+	<meta property="og:site_name" content="The Blog Project">
+	<meta property="og:title" content="À propos">
+	<meta property="og:description" content="Salut toi qui es venu t’égarer sur cette page “à propos” !
+Depuis quelques mois je me suis lancé dans l’écriture d’un blog pour y mettre mon avis sur les jeux auxquels je joue, histoire de garder une trace de mon expérience. Et quitte à avoir une expérience, autant la partager ! En tout cas, j’espère que tu apprécies ce que tu trouves ici !
+Je t’invite aussi à consulter le premier post.">
+	<meta property="og:locale" content="fr_fr">
+	<meta property="og:type" content="article">
 
+	<meta itemprop="name" content="À propos">
+	<meta itemprop="description" content="Salut toi qui es venu t’égarer sur cette page “à propos” !
+Depuis quelques mois je me suis lancé dans l’écriture d’un blog pour y mettre mon avis sur les jeux auxquels je joue, histoire de garder une trace de mon expérience. Et quitte à avoir une expérience, autant la partager ! En tout cas, j’espère que tu apprécies ce que tu trouves ici !
+Je t’invite aussi à consulter le premier post.">
+	<meta itemprop="wordCount" content="73">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="À propos">
+	<meta name="twitter:description" content="Salut toi qui es venu t’égarer sur cette page “à propos” !
+Depuis quelques mois je me suis lancé dans l’écriture d’un blog pour y mettre mon avis sur les jeux auxquels je joue, histoire de garder une trace de mon expérience. Et quitte à avoir une expérience, autant la partager ! En tout cas, j’espère que tu apprécies ce que tu trouves ici !
+Je t’invite aussi à consulter le premier post.">
 
-<meta itemprop="name" content="À propos">
-<meta itemprop="description" content="Salut toi qui es venu t&rsquo;égarer sur cette page &ldquo;à propos&rdquo; !
-Depuis quelques mois je me suis lancé dans l&rsquo;écriture d&rsquo;un blog pour y mettre mon avis sur les jeux auxquels je joue, histoire de garder une trace de mon expérience. Et quitte à avoir une expérience, autant la partager ! En tout cas, j&rsquo;espère que tu apprécies ce que tu trouves ici !
-Je t&rsquo;invite aussi à consulter le premier post.">
-
-<meta itemprop="wordCount" content="73">
-<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="À propos"/>
-<meta name="twitter:description" content="Salut toi qui es venu t&rsquo;égarer sur cette page &ldquo;à propos&rdquo; !
-Depuis quelques mois je me suis lancé dans l&rsquo;écriture d&rsquo;un blog pour y mettre mon avis sur les jeux auxquels je joue, histoire de garder une trace de mon expérience. Et quitte à avoir une expérience, autant la partager ! En tout cas, j&rsquo;espère que tu apprécies ce que tu trouves ici !
-Je t&rsquo;invite aussi à consulter le premier post."/>
-
+      
+      
+    
 	<script src="/theBlogProject/js/accordion.js"></script>
-  </head>
+  </head><body class="ma0 serif production is-page is-page page-apropos">
+   
+  
 
-  <body class="ma0 serif DEV">
-
-    
 
   <header>
     <div class="bg-navy">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l justify-between items-center center">
-    <a href="/theBlogProject/" class="f3 fw2 hover-white no-underline white-90 dib">
+  <div class="flex-l center items-center justify-between">
+    <a href="/theBlogProject/" class="f3 fw2 hover-white white-90 dib no-underline">
       
         The Blog Project
       
@@ -74,34 +148,20 @@ Je t&rsquo;invite aussi à consulter le premier post."/>
         <ul class="pl0 mr3">
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/theBlogProject/tags/jeu-vid%C3%A9o/" title="Articles &#34;jeu vidéo&#34; page">
+            <a class="hover-white white-90 no-underline" href="/theBlogProject/tags/jeu-vid%C3%A9o/" title="Articles &#34;jeu vidéo&#34; page">
               Articles &#34;jeu vidéo&#34;
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/theBlogProject/apropos" title="À propos page">
+            <a class="hover-white white-90 no-underline" href="/theBlogProject/apropos" title="À propos page">
               À propos
             </a>
           </li>
           
         </ul>
       
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      <div class="ananke-socials"></div>
 
     </div>
   </div>
@@ -111,56 +171,67 @@ Je t&rsquo;invite aussi à consulter le premier post."/>
   </header>
 
 
-    <main class="pb7" role="main">
+<main class="pb7" role="main">
+  
+
+  <article class="page-apropos flex-l mw7 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked ttu">
+    <a class="link dim" href="https://nlaurent.mooo.com/theBlogProject/">The Blog Project</a>
+  </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">À propos</h1>
       
-  <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
-      <header>
-        <p class="f6 b helvetica tracked">
-          
-        </p>
-        <h1 class="f1">
-          À propos
-        </h1>
-      </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        <p>Salut toi qui es venu t&rsquo;égarer sur cette page <em>&ldquo;à propos&rdquo;</em> !</p>
+      
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy sans-serif post-content f4 nested-links mid-gray pr4-l w-100-l"><p>Salut toi qui es venu t&rsquo;égarer sur cette page <em>&ldquo;à propos&rdquo;</em> !</p>
 <p>Depuis quelques mois je me suis lancé dans l&rsquo;écriture d&rsquo;un blog pour y mettre mon avis sur les jeux auxquels je joue, histoire de garder une trace de mon expérience. Et quitte à avoir une expérience, autant la partager ! En tout cas, j&rsquo;espère que tu apprécies ce que tu trouves ici !</p>
 <p>Je t&rsquo;invite aussi à consulter <a href="../posts/2020/premier-post">le premier post</a>.</p>
+<ul class="pa0">
+  
+</ul><ul class="pa0">
+  
+</ul>
 
-      </div>
-    </article>
-  </div>
-
-    </main>
-    <footer class="bg-navy bottom-0 w-100 pa3" role="contentinfo">
+      
+    </div></article>
+</main><footer class="bg-navy bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://nlaurent9816.github.io/theBlogProject/" >
-    &copy;  The Blog Project 2021 
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://nlaurent.mooo.com/theBlogProject/" >
+    &copy;  The Blog Project 2026 
   </a>
-    <div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <div><div class="ananke-socials"></div>
 </div>
   </div>
 </footer>
-
-    
-
-  <script src="/theBlogProject/dist/js/app.3fc0f988d21662902933.js"></script>
-
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
