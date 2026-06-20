@@ -5,8 +5,6 @@
 init_site_submodule () {
     git fetch
     sha=$(git rev-parse HEAD)
-     git submodule init
-    git submodule update
     git worktree add -B gh-pages public origin/gh-pages
     ls public
 }
