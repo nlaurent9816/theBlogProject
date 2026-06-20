@@ -3,6 +3,7 @@ title:  "Control"
 date: 2021-01-22T21:22:30+01:00
 tags: [jeu vidéo]
 featured_image: "posts/2021/control/control.jpg"
+featured_image_class: cover bg-top bg-fixed
 images:
     - posts/2021/control/control.jpg
 description: "Tout en maîtrise"

@@ -5,6 +5,7 @@ tags: [jeu vidéo]
 aliases:
     - /posts/danganronpa/
 featured_image: "posts/2020/danganronpa/danganronpa.jpg"
+featured_image_class: cover bg-top bg-fixed
 images: 
     - posts/2020/danganronpa/danganronpa.jpg
 description: "L'as des étudiants"

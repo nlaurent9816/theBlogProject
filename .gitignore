@@ -4,6 +4,7 @@ _site
 .jekyll-metadata
 vendor
 .directory
+.hugo_build.lock
 
 resources/
 public/

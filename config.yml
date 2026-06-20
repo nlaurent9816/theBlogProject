@@ -1,5 +1,5 @@
-baseURL: "https://nlaurent9816.github.io/theBlogProject/"
-languageCode: "fr-fr"
+baseURL: "https://nlaurent.mooo.com/theBlogProject/"
+locale: "fr-fr"
 title: "The Blog Project"
 theme: "ananke"
 defaultContentLanguage: fr
@@ -10,6 +10,8 @@ params:
   body_classes: "serif"
   post_content_classes: "sans-serif post-content"
   recent_posts_number: 8
+  date_format: 2 January 2006 
+  featured_image_class: bg-fixed
   custom_css: 
     - "css/custom.css"
     - "css/accordion.css"

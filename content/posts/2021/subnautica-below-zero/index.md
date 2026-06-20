@@ -3,6 +3,7 @@ title:  "Subnautica Below Zero"
 date: 2021-10-22T19:30:00+02:00
 tags: [jeu vidéo]
 featured_image: "posts/2021/subnautica-below-zero/below-zero.jpg"
+featured_image_class: cover bg-top bg-fixed
 images:
     - posts/2021/subnautica-below-zero/below-zero.jpg
 description: "La partie immergée de l'iceberg"

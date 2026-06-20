@@ -10,7 +10,7 @@ jobs:
   build_site:
     runs-on: ubuntu-latest
     container:
-      image: klakegg/hugo:debian
+      image: docker.io/hugomods/hugo:debian
 
 
     # Steps represent a sequence of tasks that will be executed as part of the job

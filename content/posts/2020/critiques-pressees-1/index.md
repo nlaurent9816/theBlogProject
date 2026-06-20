@@ -5,6 +5,7 @@ tags: [jeu vidéo, critiques pressées]
 aliases:
     - /posts/critiques-pressees-1/
 featured_image: "posts/2020/critiques-pressees-1/critiques-pressees1.jpg"
+featured_image_class: cover bg-top bg-fixed
 images: 
     - posts/2020/critiques-pressees-1/critiques-pressees1.jpg
 description: "Pour des gens pressés, par des gens pressés."

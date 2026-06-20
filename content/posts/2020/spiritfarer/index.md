@@ -5,6 +5,7 @@ tags: [jeu vidéo]
 aliases:
     - /posts/spiritfarer/
 featured_image: "posts/2020/spiritfarer/Spiritfarer.jpg"
+featured_image_class: cover bg-top bg-fixed
 images: 
     - posts/2020/spiritfarer/Spiritfarer.jpg
 description: "Dernier voyage"

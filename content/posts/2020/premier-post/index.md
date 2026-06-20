@@ -5,6 +5,7 @@ tags: [test,info]
 aliases:
     - /posts/premier-post/
 featured_image: "posts/2020/premier-post/DSC_0144.JPG"
+featured_image_class: cover bg-top bg-fixed
 images:
     - posts/2020/premier-post/DSC_0144.JPG
 description: "Les débuts de ce blog."
